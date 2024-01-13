@@ -5,7 +5,7 @@ Sensei mode SCP |
 
 ```Sensei (先生)``` berperan sebagai penasihat ```SCHALE```, dan juga seorang dewasa.
 
-```Sensei``` adalah seorang guru yang dipanggil oleh ```Ketua OSIS Umum``` untuk menyelamatkan ```Kivotos``` dari pemberontakan kriminal. Dari sana, didukung oleh ```Arona``` dan siswa dari berbagai akademi, Sensei mengawasi Kivotos, memecahkan masalah, melindungi masyarakat, dan terlibat dalam segala macam petualangan dan kelakuan aneh para siswa sepanjang waktu.
+```Sensei``` adalah seorang guru yang dipanggil oleh ```Ketua OSIS Umum``` untuk menyelamatkan ```Kivotos``` dari pemberontakan kriminal. Dari sana, didukung oleh [Arona](https://github.com/unx21/Blue-Archive/blob/zx/Characters/NPC/Arona/alona.md) dan siswa dari berbagai akademi, Sensei mengawasi Kivotos, memecahkan masalah, melindungi masyarakat, dan terlibat dalam segala macam petualangan dan kelakuan aneh para siswa sepanjang waktu.
 
 Sensei juga sorang guru yang memiliki ketertarikan aneh pada taktik militer, Sensei adalah penasihat SCHALE. Dengan bantuan Arona dan para siswa dari berbagai akademi, Sensei menjaga kedamaian di Kivotos sambil melakukan kelakuan aneh dengan para siswa kota, membimbing mereka menjadi lebih baik sambil semakin dekat dengan mereka.
 
