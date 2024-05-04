@@ -25,8 +25,8 @@ Kemudian muncul scene Sensei yang sedang berbicara dengan seseorang.
 #### Hanya Anda yang dapat membebaskan Kami dari putaran, takdir yang menyimpang ini,
 #### ...dan menemukan pilihan yang akan memimpin kami ke kenyataan yang baru. Jadi, Sensei. Kumohon..."
 
-_*implikasi memiliki beberapa arti, diantaranya adalah Maksud dan Keterlibatan. Keduanya sama-sama cocok tapi
-karena saya bingung harus pakai yang mana, akhirnya memilih implikasi saja._
+#### _*implikasi memiliki beberapa arti, diantaranya adalah Maksud dan Keterlibatan. Keduanya sama-sama cocok tapi_
+#### _karena saya bingung harus pakai yang mana, akhirnya memilih implikasi saja._
 
 
  
@@ -34,8 +34,8 @@ Lalu scene berpindah ke seseorang yang sedang berusaha membangunkan Sensei, mesk
 untuk dibangunkan sebelum akhirnya bangun juga. Lalu orang tersebut mulai menjelaskan lagi situasinya kepada Sensei.
 Dimulai dari memperkenalkan diri sebagai Nanagami Rin, seorang anggota _General Student Council*_ dari Kivotos, the _Academy City**._
 
-_*General Student Council atau Dewan Siswa Umum (lebih simpelnya Osis).
-**The Academy City lebih keren kedengarannya, juga lebih cocok daripada kota akademi / kota berbagai akademi._
+#### _*General Student Council atau Dewan Siswa Umum (lebih simpelnya Osis)._
+#### _**The Academy City lebih keren kedengarannya, juga lebih cocok daripada kota akademi / kota berbagai akademi._
 
 
 
@@ -50,8 +50,8 @@ Kivotos adalah kota besar, rumah dari berbagai akademi, dan tempat dimana Sensei
 firasatku mengatakan bahwa Anda akan terbiasa dalam waktu dekat. Diatas itu semua, Anda dipilih oleh _Ketua Osis*._
 Kita akan meninggalkan detailnya nanti."
 
-_*lebih simpel hehehe, soalnya bingung mau ditaroh dimana kata 'President' nya kalo pake GSC,
-lagipula bakal aneh kalo udah di tl trus pake kata Ketua GSC atau GSCP._
+#### _*lebih simpel hehehe, soalnya bingung mau ditaroh dimana kata 'President' nya kalo pake GSC,_
+#### _lagipula bakal aneh kalo udah di tl trus pake kata Ketua GSC atau GSCP._
 
 
 
@@ -108,7 +108,7 @@ Rin juga bertanya-tanya bagaimana bisa Ketua Osis membuat sebuah organisasi deng
 Dan terakhir, bangunan klub Schale yang berada di sekitar 30km dari tempat mereka, tempat itu saat ini kosong, tapi mereka perlu memasukkan
 sesuatu di ruang bawah tanah sesuai permintaan Ketua Osis. Itu adalah tugas Rin untuk membawa Sensei ke sana.
 
-_*ekstrayudisial adalah tidak menjadi bagian yang sah dalam proses hukum biasa. Atau juga tidak terikat / terlibat dengan hukum suatu tempat._
+#### _*ekstrayudisial adalah tidak menjadi bagian yang sah dalam proses hukum biasa. Atau juga tidak terikat / terlibat dengan hukum suatu tempat._
 
 
 
@@ -151,8 +151,9 @@ Beberapa detik kemudian Yuuka kena tembakan keroco.
 
 Yuuka berkata "Ahh pintar, onoree!1!1!1!1 apakah mereka menggunakan putaran _JHP?*_ itu curang."
 
-_Onoreee itu artinya sialan tapi saya bercanda, Yuuka ga bilang gitu, dia bilang "What the heck" tapi karena saya bingung nge-tl nya gimana, jadi ya gitu aja wkwk
-*JHP = Jacketed Hollow Point / Titik berongga berjaket atau peluru titik berongga._
+#### _Onoreee itu artinya sialan tapi saya bercanda, Yuuka ga bilang gitu, dia bilang "What the heck"_
+#### _tapi karena saya bingung nge-tl nya gimana, jadi ya gitu aja wkwk_
+#### _*JHP = Jacketed Hollow Point / Titik berongga berjaket atau peluru titik berongga._
 
 
 
@@ -161,9 +162,9 @@ Lalu Yuuka mengatakan bahwa mereka _melanggar hukum**_ di sekolah kami mulai sek
 akan meninggalkan bekas. Kemudian Hasumi mengingatkan bahwa Sensei bersama mereka, oleh karena itu,
 keamanan Sensei adalah prioritas teratas, dan mengambil kembali bangunan Schale bisa dilakukan setelah itu.
 
-_*Peluru titik berongga adalah jenis peluru yang melebar saat mengenai sasaran lunak,
-mentransfer lebih banyak atau seluruh energi proyektil ke sasaran dalam jarak yang lebih pendek.
-**melanggar hukum / ilegal._
+#### _*Peluru titik berongga adalah jenis peluru yang melebar saat mengenai sasaran lunak,_
+#### _mentransfer lebih banyak atau seluruh energi proyektil ke sasaran dalam jarak yang lebih pendek._
+#### _**melanggar hukum / ilegal._
 
 
 
@@ -200,7 +201,7 @@ Scene lagi-lagi berpindah dan Hasumi mengatakan bahwa mereka mendapatkan dalang 
 dan sedang berhadapan langsung, lalu Wakamo berkata bahwa betapa menggemaskannya _anak anjing*_ dari
 General Student Council telah tiba untuk mencoba menghentikan dia.
 
-_*disini Wakamo bilang puppies, bukan berkata kasar yaa._
+#### _*disini Wakamo bilang puppies, bukan berkata kasar yaa._
 
 
 
@@ -221,7 +222,7 @@ Scene pindah ke bagian selesai gelut, Hasumi memberikan komentar bahwa itu adala
 jenis tank yang sama digunakan di sekolahnya. Yuuka juga menambahkan bahwa preman-preman itu pasti telah
 mengambil satu yang dimaksudkan untuk _PMC*_. Yang artinya itu tidak berbeda dari sebongkah besi tua.
 
-_*PMC = Private Mercenary Company / Perusahaan yang menyediakan jasa keamanan atau tentara bayaran._
+#### _*PMC = Private Mercenary Company / Perusahaan yang menyediakan jasa keamanan atau tentara bayaran._
 
 
 
@@ -250,7 +251,7 @@ Tidak ada anggota lain yang tahu bagaimana cara mengaktifkan benda tersebut, kec
 Setelah menjelaskan hal tersebut, Rin mengatakan bahwa tugasnya di sini telah selesai dan
 meminta Sensei untuk melanjutkan bagiannya. Rin kemudian menyingkir agar tidak mengganggu.
 
-_*OS = Operational System / sistem operasi._
+#### _*OS = Operational System / sistem operasi._
 
 
 
@@ -268,7 +269,7 @@ untuk otentikasi biologis dan pembuatan sertifikat verifikasi.
 Scene berpindah dan menampilkan seorang gadis kecil sedang tertidur di meja di kelas yang aneh.
 Gadis itu mengigau tentang kue Castella... dan susu pisang lebih baik daripada susu stroberi...
 
-_*Arona sialannnn, lebih enak susu stroberi daripada susu pisang blokk._
+#### _*Arona sialannnn, lebih enak susu stroberi daripada susu pisang blokk._
 
 
 
@@ -366,4 +367,4 @@ dengan semangat untuk memulai misi pertama dari Federal Investigation Club: Scha
 Selesai.
 
 
-# Jika ada kesalahan terjemahan, koreksi saya dengan berkomentar melalui issue atau [Wassapme](wa.me/62887436568613)
+## Jika ada kesalahan terjemahan, koreksi saya dengan berkomentar melalui issue atau [Wassapme](wa.me/62887436568613)
