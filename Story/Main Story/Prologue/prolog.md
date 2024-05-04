@@ -368,4 +368,4 @@ Selesai.
 -----
 
 > [!NOTE]
-> ### Jika ada kesalahan terjemahan, koreksi saya dengan berkomentar melalui issue atau [Wassapme](wa.me/62887436568613)
+> ### Jika ada kesalahan terjemahan, koreksi saya dengan berkomentar melalui issue atau [Wassapme](https://wa.me/62887436568613)
