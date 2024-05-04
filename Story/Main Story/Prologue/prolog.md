@@ -4,7 +4,7 @@
 
 ### We thirst for the seven wailings
 ### We bear the koan of Jericho
-</pre>
+
 Kata sandi diterima.
 
 Kemudian muncul scene Sensei yang sedang berbicara dengan seseorang.
