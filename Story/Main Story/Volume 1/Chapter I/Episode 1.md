@@ -36,8 +36,8 @@ Selanjutnya - Hari Pertama di Abydos
 
 
 <p align="right">
-   <a href="../Story/Main%20Story/Prologue/prolog.md"><img src="https://img.shields.io/badge/Sebelumnya-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
-   <a href="../Story/Main%20Story/Volume%201/Chapter%20I"><img src="https://img.shields.io/badge/Kembali-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Prologue/prolog.md"><img src="https://img.shields.io/badge/Sebelumnya-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/tree/zx/Story/Main%20Story/Volume%201/Chapter%20I"><img src="https://img.shields.io/badge/Kembali-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
    <a href="https://github.com/unx21/Blue-Archive"><img src="https://img.shields.io/badge/Beranda-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
    </p>
 
