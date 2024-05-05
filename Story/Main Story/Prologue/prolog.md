@@ -19,7 +19,7 @@ Kemudian muncul scene Sensei yang sedang berbicara dengan seseorang.
 #### Ada berbagai macam pilihan yang hanya Anda dapat membuatnya.
 #### Aku pernah berbicara tentang tanggungjawab sebelumnya.
 #### Aku tidak sepenuhnya paham waktu itu, tapi sekarang Aku bisa.
-#### Kedewasaan, tanggungjawab, kewajiban...dan pilihan yang Anda buat untuk menjaga semua idealisme itu.
+#### Kedewasaan, tanggung jawab, kewajiban...dan pilihan yang Anda buat untuk menjaga semua idealisme itu.
 #### Aku bahkan paham implikasinya[^longnote].
 #### Oleh karena itu Sensei, ...hanya Anda satu-satunya orang dewasa yang bisa Aku percaya.
 #### Hanya Anda yang dapat membebaskan Kami dari putaran, takdir yang menyimpang ini,
