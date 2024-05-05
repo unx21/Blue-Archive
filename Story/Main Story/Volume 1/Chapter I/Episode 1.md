@@ -36,8 +36,11 @@ Selanjutnya - Hari Pertama di Abydos
 
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Prologue/prolog.md"><img src="https://img.shields.io/badge/Sebelumnya&nbsp;(prolog)-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
-   <a href="https://github.com/unx21/Blue-Archive/tree/zx/Story/Main%20Story/Volume%201"><img src="https://img.shields.io/badge/Kembali&nbsp;ke%20volume%201-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Prologue/prolog.md"><img src="https://img.shields.io/badge/Sebelumnya%20(prolog)-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%201/Chapter%201/Episode%202.md"><img src="https://img.shields.io/badge/Selanjutnya%20Episode%202-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
+   </p>
+<p align="right">
+      <a href="https://github.com/unx21/Blue-Archive/tree/zx/Story/Main%20Story/Volume%201"><img src="https://img.shields.io/badge/Kembali%20ke%20volume%201-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
    <a href="https://github.com/unx21/Blue-Archive"><img src="https://img.shields.io/badge/Beranda-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
    </p>
 
