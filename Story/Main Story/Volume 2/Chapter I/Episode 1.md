@@ -41,7 +41,7 @@ Scene berpindah lagi dan dimulai dengan narasi
 #### Mereka akan memanggilmu dengan sebuah gelar yang lebih istimewa.
 #### Gelar hebat itu adalah..."
 
-__*Sensei!*__
+__*Sensei! <sup>buka mode code</sup>*__
 
 <!-- Saya tidak tahu apakah ini masih termasuk kedalam narasi game diatas atau memang di ucapkan oleh Momoi ; Midori ?? Entahlah -->
 
