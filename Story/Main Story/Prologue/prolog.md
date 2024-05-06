@@ -104,7 +104,7 @@ yaitu Federal Investigation Club: Schale. Klub ini tidak seperti klub biasanya, 
 Karena itu adalah klub federal, Sensei bisa mendaftarkan murid-murid dari akademi manapun di Kivotos.
 Juga setiap distrik akademi bisa menjalankan aktifitas pertempuran tanpa larangan.
 Rin juga bertanya-tanya bagaimana bisa Ketua Osis membuat sebuah organisasi dengan kekuatan seperti ini.
-Dan terakhir, bangunan klub Schale yang berada di sekitar 30km dari tempat mereka, tempat itu saat ini kosong, tapi mereka perlu memasukkan
+Dan terakhir, bangunan klub Schale yang berada di sekitar 30 km dari tempat mereka, tempat itu saat ini kosong, tapi mereka perlu memasukkan
 sesuatu di ruang bawah tanah sesuai permintaan Ketua Osis. Itu adalah tugas Rin untuk membawa Sensei ke sana.
 
 [^5]: __Ekstrayudisial adalah tidak menjadi bagian yang sah dalam proses hukum biasa. Atau juga tidak terikat / terlibat dengan hukum suatu tempat.__
