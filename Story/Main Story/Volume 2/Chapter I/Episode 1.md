@@ -16,7 +16,7 @@ Scene dimulai dengan sebuah narasi
 
 
 
-Scene dibuka dengan sebuah suara yang mengatakan "Cut... Cut... jalan cerita ini terlalu klise[^2], itu
+Lalu terdengar sebuah suara yang mengatakan "Cut... Cut... jalan cerita ini terlalu klise[^2], itu
 sangat timpang[^3]. jika aku membeli game yang dimulai dengan timpang seperti itu, aku akan
 mengembalikannya bahkan sebelum mencapai satu jam. Mari kita mulai lagi! Ahem."
 
@@ -65,7 +65,7 @@ Sensei bertanya surat apa yang dimaksudnya, scene pindah ke kilas balik saat Aro
 bahwa mereka memiliki permintaan dari Millenium dimana pengirimnya adalah Millenium Game
 Development Department dan mulai membacakan surat tersebut yang berisi bahwa Game Development
 Department sedang bertarung untuk bertahan, dewan siswa telah memojokkan mereka dan berkata bahwa
-Sensei adalah satu-satunya harapan mereka sambil memasukkan kata-kata seperti "Oh Pahlawan, Tolonglah
+Sensei adalah satu-satunya harapan mereka sambil memasukkan kata-kata seperti "Oh Pahlawan, Tolong
 selamatkan kami!."
 
 Arona tertawa karena ini adalah permintaan yang paling lucu yang pernah dia lihat, kemudian bertanya apakah
@@ -90,7 +90,7 @@ Sensei. lalu Sensei bertanya reruntuhan apa yang mereka maksud.
 
 
 
-Momoi menjelaskan situasinya terlebih dahulu kepada Sensei dimulai dari Fame Development Department telah membuat
+Momoi menjelaskan situasinya terlebih dahulu kepada Sensei dimulai dari Game Development Department telah membuat
 sebuah game 16-bit dengan damai, kemudian suatu hari dewan siswa meluncurkan serangan mereka dimana dua hari yang
 lalu Yuuka, salah seorang dari Student Council's Four Divine Beast, menghampiri dan memberikan mereka ultimatum. Sensei
 sedikit bingung dan bertanya apa itu ultimatum, kemudian muncul sebuah suara yang mengatakan bahwa dia akan menjelaskan
@@ -103,8 +103,8 @@ itu sendiri. Scene diakhiri oleh Momoi dan Midori yang terkejut dan memasang waj
 
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%201/Chapter%20II/Episode%2020.md"><img src="https://img.shields.io/badge/Sebelumnya%20volume%20II%20Episode%2020-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%202.md"><img src="https://img.shields.io/badge/Selanjutnya%20Episode%202-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%201/Chapter%20II/Episode%2020.md"><img src="https://img.shields.io/badge/volume%201%20Chapter%20II%20Episode%2020-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%202.md"><img src="https://img.shields.io/badge/Episode%202-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="right">
