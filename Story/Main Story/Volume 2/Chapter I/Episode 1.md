@@ -62,16 +62,16 @@ Sensei mengangguk, dia melanjutkan bahwa Sensei pasti telah membaca surat yang d
 tidak menyangka akan benar-benar datang.
 
 Sensei bertanya surat apa yang dimaksudnya, scene pindah ke kilas balik saat Arona memberitahu Sensei
-bahwa mereka memiliki permintaan dari Millenium dimana pengirimnya adalah Millenium Game
+bahwa mereka memiliki permintaan dari Millennium dimana pengirimnya adalah Millennium Game
 Development Department dan mulai membacakan surat tersebut yang berisi bahwa Game Development
 Department sedang bertarung untuk bertahan, dewan siswa telah memojokkan mereka dan berkata bahwa
 Sensei adalah satu-satunya harapan mereka sambil memasukkan kata-kata seperti "Oh Pahlawan, Tolong
 selamatkan kami!."
 
 Arona tertawa karena ini adalah permintaan yang paling lucu yang pernah dia lihat, kemudian bertanya apakah
-Sensei akrab dengan Millenium Science School. Sensei percaya diri tetapi di satu sisi tidak terlalu yakin, kemudian
+Sensei akrab dengan Millennium Science School. Sensei percaya diri tetapi di satu sisi tidak terlalu yakin, kemudian
 Arona menjelaskan bahwa sekolah tersebut merupakan salah satu dari tiga akademi terbesar disamping Trinity
-dan Gehenna. Millenium School menghargai rasionalitas dan teknologi lebih dari sekolah manapun di Kivotos.
+dan Gehenna. Millennium School menghargai rasionalitas dan teknologi lebih dari sekolah manapun di Kivotos.
 Itu adalah tempat dimana murid yang berspesialisasi dalam sains dan teknisi bisa berkumpul atas nama penelitian,
 sementara mereka tidak memiliki sejarah yang panjang seperti dua akademi tradisional itu, tetapi pengaruh mereka
 di Kivotos benar-benar hebat. Millenium juga tempat dimana teknologi paling mutakhir berawal, Arona bertanya-tanya
