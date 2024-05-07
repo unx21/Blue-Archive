@@ -57,6 +57,8 @@ dekat, Hoshino datang memberi ucapan **Kerja Bagus 👍😁👍** kepada sensei 
 
 # Selanjutnya - Keadaan Sulit Foreclosure Task Force
 
+-----
+
 
 
 <p align="right">
