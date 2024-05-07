@@ -1,5 +1,7 @@
 # Petualangan Dimulai
 
+-----
+
 
 
 Scene dimulai dengan sebuah narasi
