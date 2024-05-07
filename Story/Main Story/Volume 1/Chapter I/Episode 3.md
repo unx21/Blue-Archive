@@ -60,8 +60,8 @@ dekat, Hoshino datang memberi ucapan **Kerja Bagus 👍😁👍** kepada sensei 
 
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%201/Chapter%20I/Episode%202.md"><img src="https://img.shields.io/badge/Sebelumnya%20Episode%202-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%201/Chapter%20I/Episode%204.md"><img src="https://img.shields.io/badge/Selanjutnya%20Episode%204-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%201/Chapter%20I/Episode%202.md"><img src="https://img.shields.io/badge/Episode%202-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%201/Chapter%20I/Episode%204.md"><img src="https://img.shields.io/badge/Episode%204-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="right">
