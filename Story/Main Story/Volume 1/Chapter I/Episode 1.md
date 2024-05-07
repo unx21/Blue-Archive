@@ -33,6 +33,8 @@ Arona memutuskan untuk menyemangati Sensei. Sebelum akhirnya scene berpindah ke 
 
 # Selanjutnya - Hari Pertama di Abydos
 
+-----
+
 
 
 <p align="right">
