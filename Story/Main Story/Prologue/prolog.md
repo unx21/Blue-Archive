@@ -90,7 +90,7 @@ Yuuka mengeluh bahwa Ketua Osis yang memilih Sensei adalah seseorang yang sekara
 menjadi semakin tidak masuk akal.
 
 Kemudian Sensei menyapa para murid-murid tersebut dan perkenalan diri dimulai oleh Yuuka
-yang berasal dari Millenium Science School... lalu Yuuka melanjutkan
+yang berasal dari Millennium Science School... lalu Yuuka melanjutkan
 mengapa dia harus repot-repot memperkenalkan diri sekarang.
 
 Lalu Rin berkata kepada Sensei bahwa tidak perlu khawatir terhadap gadis menyebalkan itu
