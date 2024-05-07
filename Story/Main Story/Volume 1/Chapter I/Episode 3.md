@@ -1,5 +1,7 @@
 # Menjadi Dewasa itu Menakjubkan
 
+-----
+
 
 
 Scene berawal dari ruang klub Abydos Foreclosure Task Force, Hoshino tidak percaya bahwa mereka menang,
