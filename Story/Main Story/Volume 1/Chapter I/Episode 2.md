@@ -72,6 +72,8 @@ Scene berpindah setelah mereka bergelut dan Kata-Kata Helmet Gang akhirnya mundu
 
 # Selanjutnya - Menjadi Dewasa itu Menakjubkan
 
+-----
+
 
 
 <p align="right">
