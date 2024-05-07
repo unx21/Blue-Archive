@@ -1,5 +1,7 @@
 # Selamat datang di Foreclosure Task Force
 
+-----
+
 
 
 Scene dibuka oleh Arona yang sedang memberikan ucapan selamat pagi kepada Sensei, dan mulai berbicara
