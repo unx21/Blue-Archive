@@ -110,7 +110,7 @@ itu sendiri. Scene diakhiri oleh Momoi dan Midori yang terkejut dan memasang waj
 </p>
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/tree/zx/Story/Main%20Story/Volume%202/Chapter%20I"><img src="https://img.shields.io/badge/Kembali%20ke%20chapter%20I-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/tree/zx/Story/Main%20Story"><img src="https://img.shields.io/badge/Kembali%20ke%20main%20story-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
    <a href="https://github.com/unx21/Blue-Archive"><img src="https://img.shields.io/badge/Beranda-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
