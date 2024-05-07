@@ -1,5 +1,7 @@
 # Hari Pertama di Abydos
 
+-----
+
 
 
 Scene dimulai di sekitar area pemukiman Abydos, lalu seseorang yang sedang bersepeda
