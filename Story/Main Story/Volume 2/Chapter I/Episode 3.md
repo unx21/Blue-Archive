@@ -47,8 +47,6 @@ di sekitar situ dan bersiap menerobos robot-robot itu untuk pergi ke sana.
 
 # Selanjutnya - Di Hari Itu, Kami Bertemu Seorang Gadis
 
-
-
 -----
 
 
