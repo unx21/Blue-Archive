@@ -28,12 +28,12 @@ mereka terjatuh.
 Sesampainya di bawah Momoi berfikir bahwa mereka akan modar, sementara Midori bertanya dimana Sensei, Sensei menyahut
 bahwa dia berada di bawah mereka, Midori kaget mengapa Sensei berada di bawah mereka dan Momoi menjawab seharusnya
 Midori bersyukur karena Sensei melindungi mereka saat terjatuh. Midori mengelak dan berkata jika dia hanya kebingungan.
-Momoi menegaskan bahwa Midori berhutang maaf kepada Sensei untuk yang satu ini, Momoi bertanya apakah Sensei baik-baik saja[^2],
+Momoi menegaskan bahwa Midori berhutang maaf kepada Sensei untuk yang satu ini, Momoi bertanya apakah Sensei baik-baik saja*,
 Sensei menjawab bahwa dia sehat wal afiat dan tidak masalah untuk tetap berada di bawah mereka. Midori berterima kasih
 atas bantuan Sensei, Momoi berkata mereka beruntung tidak terjatuh sejauh yang dia pikirkan dan tiba-tiba Momoi kehabisan kata,
 sementara Momoi terdiam, Midori bertanya tetapi setelah melihat ke arah Momoi, dia juga kehilangan kata-kata.
 
-[^2]: Aku juga mauuuu didudukin sama si kembarr 😭😭😭.
+_*Aku juga mauuuu ditimpa lalu didudukin sama si kembarr 😭😭😭._
 
 
 
