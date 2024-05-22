@@ -22,18 +22,18 @@ Kemudian muncul scene Sensei yang sedang berbicara dengan seseorang.
 #### Aku pernah berbicara tentang tanggungjawab sebelumnya.
 #### Aku tidak sepenuhnya paham waktu itu, tapi sekarang Aku bisa.
 #### Kedewasaan, tanggung jawab, kewajiban...dan pilihan yang Anda buat untuk menjaga semua idealisme itu.
-#### Aku bahkan paham implikasinya[^longnote].
+#### Aku bahkan paham implikasinya[^1].
 #### Oleh karena itu Sensei, ...hanya Anda satu-satunya orang dewasa yang bisa Aku percaya.
 #### Hanya Anda yang dapat membebaskan Kami dari putaran, takdir yang menyimpang ini,
 #### ...dan menemukan pilihan yang akan memimpin kami ke kenyataan yang baru. Jadi, Sensei. Kumohon..."
 
-[^longnote]: __Implikasi memiliki beberapa arti, diantaranya adalah Maksud dan Keterlibatan. Keduanya sama-sama cocok tapi
+[^1]: __Implikasi memiliki beberapa arti, diantaranya adalah Maksud dan Keterlibatan. Keduanya sama-sama cocok tapi
 karena saya bingung harus pakai yang mana, akhirnya memilih implikasi saja.__
 
 
  
-Lalu scene berpindah ke seseorang yang sedang berusaha membangunkan Sensei, meskipun Sensei sedikit sulit
-untuk dibangunkan sebelum akhirnya bangun juga. Lalu orang tersebut mulai menjelaskan lagi situasinya kepada Sensei.
+Lalu scene berpindah ke seseorang yang sedang berusaha membangunkan Sensei, seseorang tersebut mengeluh betapa sulitnya
+Sensei dibangunkan. Lalu orang tersebut mulai menjelaskan lagi situasinya kepada Sensei.
 Dimulai dari memperkenalkan diri sebagai Nanagami Rin, seorang anggota __General Student Council[^2]__ dari Kivotos, the __Academy City[^3].__
 
 [^2]: __General Student Council atau Dewan Siswa Umum (lebih simpelnya Osis).__
@@ -49,67 +49,70 @@ Setelah mulai mengikuti Rin, scene berpindah lagi dan Rin mulai menjelaskan kepa
 Kivotos adalah kota besar, rumah dari berbagai akademi, dan tempat dimana Sensei akan mulai bekerja dari sekarang.
 
 "Meskipun jauh dari sesuatu yang Anda panggil rumah. Anda mungkin akan kesulitan untuk pertama kali, tapi
-firasatku mengatakan bahwa Anda akan terbiasa dalam waktu dekat. Diatas itu semua, Anda dipilih oleh __Ketua Osis[^longnote2].__
-Kita akan meninggalkan detailnya nanti."
+firasatku mengatakan bahwa Anda akan terbiasa dalam waktu dekat. Diatas itu semua, Anda dipilih oleh __Ketua Osis[^4].__
+Kita akan meninggalkan detailnya nanti." ucap Rin.
 
-[^longnote2]: __Lebih simpel hehehe, soalnya bingung mau ditaroh dimana kata 'President' nya kalo pake GSC, lagipula bakal aneh kalo udah di tl trus pake kata Ketua GSC atau GSCP.__
+[^4]: __Lebih simpel hehehe, soalnya bingung mau ditaroh dimana kata 'President' nya kalo pake GSC, lagipula bakal aneh kalo udah di tl trus pake kata Ketua GSC atau GSCP.__
 
 
 
 Setelah tiba di ruang resepsi, ada beberapa orang yang mencari pengganti Ketua Osis dan meminta untuk
 membawa Ketua Osis yang asli. Mereka adalah Yuuka, Hasumi, Chinatsu dan Suzumi. Lalu Rin menjawab bahwa
-waktunya sedikit tidak nyaman. Dan melanjutkan "Aku sadar betul mengapa kalian menggangu-- maksudku,
-gambaran penting kalian datang kemari hari ini. Kalian kesini untuk menyalahkan kami
-atas apa yang terjadi di Academy City ini, apakah itu benar?."
+waktunya sedikit tidak nyaman. Dan melanjutkan bahwa dia sadar betul mengapa mereka menggangu-- maksudnya,
+gambaran penting mereka datang kemari hari ini. Mereka kesini untuk menyalahkan General Student Council
+atas apa yang terjadi di Academy City ini.
 
 Lalu Yuuka membalas "Jika kalian sadar betul, maka lakukan sesuatu! Lagipula kamu mewakili General Student Council.
 Ratusan akademi panik dan generator angin sekolah kami juga mati beberapa hari yang lalu."
 
-Chinatsu melanjutkan bahwa "Ada rumor yang mengatakan murid dibawah penjagaan Federal Correction Bureau telah melarikan diri."
-Suzumi juga menambahkan "Terdapat angka kenaikan preman-preman yang menyerang murid-murid yang dalam perjalanan menuju sekolah."
-Hasumi juga mengatakan bahwa peredaran tank ilegal, pertukaran dan berbagai senjata yang tidak diketahui telah meningkat hingga 2000%.
-terakhir Yuuka bertanya apa yang dilakukan oleh Ketua Osis pada keadaan yang menyedihkan ini? Dan menuntut untuk melihatnya secepat ini juga."
+Chinatsu melanjutkan bahwa ada rumor yang mengatakan murid dibawah penjagaan Federal Correction Bureau telah melarikan diri.
+Suzumi menambahkan dimana terdapat angka kenaikan preman-preman yang menyerang murid-murid yang dalam perjalanan menuju sekolah.
+Hasumi juga mengatakan bahwa peredaran tank ilegal, pertukaran berbagai senjata yang tidak diketahui telah meningkat hingga 2000%.
+terakhir Yuuka bertanya apa yang dilakukan oleh Ketua Osis pada keadaan yang menyedihkan ini? Dan menuntut untuk melihatnya secepat ini juga.
 
-Kemudian Rin menjawab bahwa Ketua Osis sedang tidak di sini saat ini. Terus terang, dia menghilang.
+Kemudian Rin menjawab bahwa Ketua Osis sedang tidak di sini saat ini. dan berterus terang bahwa dia menghilang.
 
-Sementara Yuuka dan Chinatsu terkejut, Hasumi berkata bahwa ternyata rumor itu benar.
+Sementara Yuuka dan Chinatsu terkejut, Hasumi tidak menyangka bahwa ternyata rumor itu benar.
 
-Lalu Rin melanjutkan lagi bahwa General Student Council tidak memiliki otoritas karena administrator teratas Sanctum Tower telah menghilang.
-Mereka telah mencari ke seluruh jalan serta jalan pintas yang membutuhkan verifikasi, semuanya tidak berguna hingga.... baru-baru ini.
+Lalu Rin melanjutkan lagi bahwa General Student Council tidak memiliki otoritas karena administrator[^5] teratas Sanctum Tower telah menghilang.
+General Student Council telah mencari ke seluruh jalan serta jalan pintas yang membutuhkan izin, semuanya tidak berguna hingga.... baru-baru ini.
+
+[^5]: __Administrator / Pengurus : yup yang ngurus Sanctum Tower itu Ketua Osis.__
+
+
 
 Hasumi kembali bertanya apakah Rin telah berhasil menemukan caranya. Dan Rin menjawab Benar, dan Sensei di sini adalah jawaban untuk masalah kita.
 Yuuka dan Chinatsu kaget lagi, sementara Hasumi kembali bertanya apakah Sensei itu adalah orang ini?.
 Sensei juga bertanya apakah dirinya yang dimaksud.
 
-Yuuka kemudian menyela dan berkata "Tunggu dulu, siapa "Sensei" yang kamu bicarakan? apa yang dilakukannya di sini?."
+Yuuka kemudian menyela dan bertanya Siapa 'Sensei' yang sedang mereka bicarakan? dan apa yang dilakukannya di sini?.
 
-Hasumi mengatakan "Siapapun Sensei, kelihatannya tidak berasal dari Kivotos."
+Hasumi menjawab Siapapun Sensei, kelihatannya tidak berasal dari Kivotos.
 
 Lalu Rin memperkenalkan Sensei dan sedikit menjelaskan bahwa Sensei akan mulai mengajar di Kivotos,
 dan juga dipilih langsung secara pribadi oleh Ketua Osis.
 
-Yuuka mengeluh bahwa Ketua Osis yang memilih Sensei adalah seseorang yang sekarang menghilang? Hal-hal
+Yuuka mengeluh bahwa mengapa Ketua Osis yang memilih Sensei adalah seseorang yang sekarang menghilang? Hal-hal
 menjadi semakin tidak masuk akal.
 
-Kemudian Sensei menyapa para murid-murid tersebut dan perkenalan diri dimulai oleh Yuuka
-yang berasal dari Millennium Science School... lalu Yuuka melanjutkan
-mengapa dia harus repot-repot memperkenalkan diri sekarang.
+Kemudian Sensei menyapa para murid-murid tersebut, lalu Yuuka yang pertama memulai dengan namanya yaitu Hayase Yuuka
+yang berasal dari Millennium Science School... Yuuka sedikit bingung mengapa dia harus repot-repot memperkenalkan diri sekarang.
 
-Lalu Rin berkata kepada Sensei bahwa tidak perlu khawatir terhadap gadis menyebalkan itu
+Rin berkata kepada Sensei bahwa tidak perlu khawatir terhadap gadis menyebalkan itu
 dan segera menyarankan mereka untuk pindah.
 
-Dan si gadis menyebalkan ini langsung membalas Rin dengan siapa yang dia panggil menyebalkan? Dan
-memperkenalkan dirinya sekali lagi dihadapan Sensei dan menyuruh Sensei untuk mengingat namanya, yaitu Hayase Yuuka.
+Dan si gadis menyebalkan tersebut membalas Rin dengan siapa yang dia panggil menyebalkan, lalu Yuuka
+memperkenalkan dirinya sekali lagi dihadapan Sensei dan menyuruh Sensei untuk mengingat namanya, Hayase Yuuka.
 
 Rin menjelaskan lagi bahwa Sensei di sini untuk menjadi penasihat untuk klub yang dibentuk oleh Ketua Osis,
-yaitu Federal Investigation Club: Schale. Klub ini tidak seperti klub biasanya, tetapi lebih seperti organisasi __ekstrayudisial[^5].__
+yaitu Federal Investigation Club: Schale. Klub ini tidak seperti klub biasanya, tetapi lebih seperti organisasi __ekstrayudisial[^6].__
 Karena itu adalah klub federal, Sensei bisa mendaftarkan murid-murid dari akademi manapun di Kivotos.
 Juga setiap distrik akademi bisa menjalankan aktifitas pertempuran tanpa larangan.
 Rin juga bertanya-tanya bagaimana bisa Ketua Osis membuat sebuah organisasi dengan kekuatan seperti ini.
 Dan terakhir, bangunan klub Schale yang berada di sekitar 30 km dari tempat mereka, tempat itu saat ini kosong, tapi mereka perlu memasukkan
 sesuatu di ruang bawah tanah sesuai permintaan Ketua Osis. Itu adalah tugas Rin untuk membawa Sensei ke sana.
 
-[^5]: __Ekstrayudisial adalah tidak menjadi bagian yang sah dalam proses hukum biasa. Atau juga tidak terikat / terlibat dengan hukum suatu tempat.__
+[^6]: __Ekstrayudisial adalah tidak menjadi bagian yang sah dalam proses hukum biasa. Atau juga tidak terikat / terlibat dengan hukum suatu tempat.__
 
 
 
@@ -150,22 +153,21 @@ Beberapa detik kemudian Yuuka kena tembakan keroco.
 
 __*sfx rustle rustle (anggap saja suara baja 100kg kena tembak)__
 
-Yuuka berkata "Ahh pintar, __onoree!1!1!1!1[^longnote3]__, apakah mereka menggunakan putaran __JHP?[^7]__ itu curang."
+Yuuka berkata "Ahh pintar, __onoree!1!1!1!1[^7]__, apakah mereka menggunakan putaran __JHP?[^8]__ itu curang."
 
-[^longnote3]: __Onoreee itu artinya sialan tapi saya bercanda, Yuuka ga bilang gitu, dia bilang "What the heck"
+[^7]: __Onoreee itu artinya sialan tapi saya bercanda, Yuuka ga bilang gitu, dia bilang "What the heck"
   tapi karena saya bingung nge-tl nya gimana, jadi ya gitu aja wkwk.__
-[^7]: __JHP = Jacketed Hollow Point / Titik berongga berjaket atau peluru titik berongga.__
+[^8]: __JHP = Jacketed Hollow Point / Titik berongga berjaket atau peluru titik berongga.__
 
 
 
-Hasumi datang untuk menyuruh Yuuka berlindung. Disamping itu, mempertimbangkan __peluru berongga[^longnote4]__, itu tidaklah melanggar hukum
-Lalu Yuuka mengatakan bahwa mereka __melanggar hukum[^9]__ di sekolah kami mulai sekarang, karena itu mungkin
+Hasumi datang untuk menyuruh Yuuka berlindung. Disamping itu, mempertimbangkan __peluru berongga[^9]__, itu tidaklah melanggar hukum
+Lalu Yuuka mengatakan bahwa mereka __melanggar hukum[^10]__ di sekolah kami mulai sekarang, karena itu mungkin
 akan meninggalkan bekas. Kemudian Hasumi mengingatkan bahwa Sensei bersama mereka, oleh karena itu,
 keamanan Sensei adalah prioritas teratas, dan mengambil kembali bangunan Schale bisa dilakukan setelah itu.
 
-[^longnote4]: __Peluru titik berongga adalah jenis peluru yang melebar saat mengenai sasaran lunak,
-  lebih banyak atau seluruh energi proyektil ke sasaran dalam jarak yang lebih pendek.__
-[^9]: __Melanggar hukum / ilegal.__
+[^9]: __Peluru titik berongga adalah jenis peluru yang melebar saat mengenai sasaran lunak, lebih banyak atau seluruh energi proyektil ke sasaran dalam jarak yang lebih pendek.__
+[^10]: __Melanggar hukum / ilegal.__
 
 
 
@@ -199,10 +201,10 @@ bagi General Student Council... yah dia hanya perlu menghancurkannya, dia tidak 
 
 
 Scene lagi-lagi berpindah dan Hasumi mengatakan bahwa mereka mendapatkan dalang dibalik keributan tersebut
-dan sedang berhadapan langsung, lalu Wakamo berkata bahwa betapa menggemaskannya __anak anjing[^10]__ dari
+dan sedang berhadapan langsung, lalu Wakamo berkata bahwa betapa menggemaskannya __anak anjing[^11]__ dari
 General Student Council telah tiba untuk mencoba menghentikan dia.
 
-[^10]: __Disini Wakamo bilang puppies, bukan berkata kasar yaa.__
+[^11]: __Disini Wakamo bilang puppies, bukan berkata kasar yaa.__
 
 
 
@@ -221,9 +223,9 @@ terdengar suara gemuruh dan ketika Yuuka bertanya suara apa itu, Chinatsu menjaw
 
 Scene pindah ke bagian selesai gelut, Hasumi memberikan komentar bahwa itu adalah Crusader Tank Type 1,
 jenis tank yang sama digunakan di sekolahnya. Yuuka juga menambahkan bahwa preman-preman itu pasti telah
-mengambil satu yang dimaksudkan untuk __PMC[^11]__. Yang artinya itu tidak berbeda dari sebongkah besi tua.
+mengambil satu yang dimaksudkan untuk __PMC[^12]__. Yang artinya itu tidak berbeda dari sebongkah besi tua.
 
-[^11]: __PMC = Private Mercenary Company / Perusahaan yang menyediakan jasa keamanan atau tentara bayaran.__
+[^12]: __PMC = Private Mercenary Company / Perusahaan yang menyediakan jasa keamanan atau tentara bayaran.__
 
 
 
@@ -246,13 +248,13 @@ menjelaskan bahwa di sini adalah apa yang ditinggalkan oleh Ketua Osis. Kemudian
 Shittim Chest kepada Sensei dan bersyukur bahwa benda itu tidak tergores.
 
 Rin sedikit menjelaskan tentang Shittim Chest bahwa meskipun terlihat seperti tablet biasa, asal-usulnya
-sendiri adalah misteri. Pabrikannya, __OS[^12]__, struktur sistem, dan komponen, sepenuhnya tidak diketahui.
+sendiri adalah misteri. Pabrikannya, __OS[^13]__, struktur sistem, dan komponen, sepenuhnya tidak diketahui.
 Ketua Osis meninggalkan Shittim Chest kepada Sensei dan berkata bahwa Sensei bisa untuk mengatur Sanctum Tower dengan itu.
 Tidak ada anggota lain yang tahu bagaimana cara mengaktifkan benda tersebut, kecuali Sensei, jika tidak...
 Setelah menjelaskan hal tersebut, Rin mengatakan bahwa tugasnya di sini telah selesai dan
 meminta Sensei untuk melanjutkan bagiannya. Rin kemudian menyingkir agar tidak mengganggu.
 
-[^12]: __OS = Operational System / sistem operasi.__
+[^13]: __OS = Operational System / sistem operasi.__
 
 
 
