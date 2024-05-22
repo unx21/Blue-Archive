@@ -25,13 +25,25 @@ Isakusan juga mendefinisikan semua waralaba media Sensei sebagai non-canon untuk
 [Manga Problem Solver 68](https://h.mangabat.com/read-yq402635) |
 Penampilan Sensei |
 
-Dalam manga ```Game Development Department```, Sensei memiliki kepala yang mirip dengan Arona gambar dan otot yang sangat besar.
+-----
+
+Dalam manga ```Game Development Department```, Sensei memiliki kepala yang mirip dengan yang digambar oleh Arona dan otot yang sangat besar.
 ![Sensei-dgd](https://github.com/unx21/Blue-Archive/assets/84166927/bbf2dab2-f4d8-477c-97fc-8065e317a659) |
 ----|
 [Manga Game Development Department](https://www.novelcool.com/novel/Blue-Archive-The-Adventure-Of-Game-Development-Department.html) |
 Penampilan Sensei |
 
-Di antologi manga lain juga mempunyai banyak variasi jenis kelamin, usia, dan penampilan Sensei secara luas. Baik itu buatan penggemar atau resmi, pilihan penampilan yang berbeda. Penampilan Sensei kemungkinan besar akan berbeda juga di ```"Blue Archive: The Animation"``` mendatang.
+-----
+
+Penampilan Sensei pada tayangan animasi memiliki fitur wajah yang androgini, dan menggunakan kemeja putih lengan panjang yang dilipat setengah lengan serta menggunakan name tag SCHALE
+![Sensei-Anime](https://github.com/unx21/Blue-Archive/assets/84166927/c0b7afe8-7116-4edc-93bd-8eece59f7980) |
+----|
+[Animasi Blue Archive](https://www.youtube.com/playlist?list=PLxSscENEp7JgzVV7Mg2OKYppcCHKtkNcO)
+Penampilan Sensei yang digambar oleh [神山すむ](https://www.pixiv.net/en/users/10467573)|
+
+-----
+
+Di antologi manga lain juga mempunyai banyak variasi jenis kelamin, usia, dan penampilan Sensei secara luas. Baik itu buatan penggemar atau resmi, pilihan penampilan yang berbeda.
 
 
 # Senjata & Peralatan
@@ -43,17 +55,17 @@ Credit Card telah digunakan tiga kali dalam cerita sejauh ini: sekali untuk meng
 
 # Kekuatan & Kemampuan
 
-Kecerdasan Jenius : Sebagai seorang guru, Sensei kemungkinan besar lebih pintar daripada kebanyakan karakter ketika menyangkut aspek-aspek tertentu seperti taktik militer dan topik-topik serius seperti politik, hal-hal yang mungkin tidak akan dipahami oleh sebagian besar siswa kecuali mereka fokus pada topik-topik tersebut, dan dapat dengan mudah mengajar banyak siswa. Sensei juga mampu memberikan berbagai pelajaran moral yang sesuai dengan situasi, seperti kutipan terkenal: “Jika kamu yakin bahwa celana dalam bikini kamu adalah celana dalam, maka itu adalah celana dalam. yang Sensei ucapkan kepada Yurizono Seia. Kutipan itu sendiri memiliki arti, “Jika Anda yakin bahwa ada sesuatu yang benar atau penting, maka itu benar.”
+**Kecerdasan Jenius** : Sebagai seorang guru, Sensei kemungkinan besar lebih pintar daripada kebanyakan karakter ketika menyangkut aspek-aspek tertentu seperti taktik militer dan topik-topik serius seperti politik, hal-hal yang mungkin tidak akan dipahami oleh sebagian besar siswa kecuali mereka fokus pada topik-topik tersebut, dan dapat dengan mudah mengajar banyak siswa. Sensei juga mampu memberikan berbagai pelajaran moral yang sesuai dengan situasi, seperti kutipan terkenal: “Jika kamu yakin bahwa celana dalam bikini kamu adalah celana dalam, maka itu adalah celana dalam. yang Sensei ucapkan kepada Yurizono Seia. Kutipan itu sendiri memiliki arti, “Jika Anda yakin bahwa ada sesuatu yang benar atau penting, maka itu benar.”
 
-Ketajaman Militer : Sensei tidak terlibat langsung dalam pertempuran. Namun, Sensei entah bagaimana memiliki strategi dan taktik militer, dan Sensei jugalah yang mengarahkan siswa dalam pertempuran, khususnya ditunjukkan oleh pemain yang memilih siapa yang akan dikerahkan dalam pertempuran, ke mana mereka bergerak dalam misi, dan kapan serta di mana mengaktifkan Keterampilan EX siswa. Pengetahuan Sensei dalam taktik dan kemampuan memerintah telah memungkinkan untuk membalikkan keadaan dalam berbagai pertempuran yang tidak menguntungkan.
+**Ketajaman Militer** : Sensei tidak terlibat langsung dalam pertempuran. Namun, Sensei entah bagaimana memiliki strategi dan taktik militer, dan Sensei jugalah yang mengarahkan siswa dalam pertempuran, khususnya ditunjukkan oleh pemain yang memilih siapa yang akan dikerahkan dalam pertempuran, ke mana mereka bergerak dalam misi, dan kapan serta di mana mengaktifkan Keterampilan EX siswa. Pengetahuan Sensei dalam taktik dan kemampuan memerintah telah memungkinkan untuk membalikkan keadaan dalam berbagai pertempuran yang tidak menguntungkan.
 
-Hak SCHALE : Sensei memiliki wewenang diluar hukum di bawah SCHALE, Sensei mampu melakukan tugas tertentu dan melewati prosedur demi kepentingan siswa. Hal ini memungkinkan pendaftaran siswa mana pun dari sekolah mana pun untuk mengambil bagian dalam misi, dapat bertindak sebagai penasihat klub, memungkinkan pendirian klub dengan segera dalam hitungan jam dan bahkan menggantikan Ketua OSIS Umum dalam keadaan darurat mutlak, seperti yang terlihat di Volume 3 Chapter 3 Episode 19.
+**Hak SCHALE** : Sensei memiliki wewenang diluar hukum di bawah SCHALE, Sensei mampu melakukan tugas tertentu dan melewati prosedur demi kepentingan siswa. Hal ini memungkinkan pendaftaran siswa mana pun dari sekolah mana pun untuk mengambil bagian dalam misi, dapat bertindak sebagai penasihat klub, memungkinkan pendirian klub dengan segera dalam hitungan jam dan bahkan menggantikan Ketua OSIS Umum dalam keadaan darurat mutlak, seperti yang terlihat di Volume 3 Chapter 3 Episode 19.
 
-Otoritas : Sensei tampaknya memiliki otoritas supranatural dalam Kivotos. Selain otoritas diluar hukum yang diberikan oleh SCHALE, area dan objek tertentu memerlukan Sensei untuk dibuka, seperti ```Shittim Chest``` dan Reruntuhan selama Arc Milenium.
+**Otoritas** : Sensei tampaknya memiliki otoritas supranatural dalam Kivotos. Selain otoritas diluar hukum yang diberikan oleh SCHALE, area dan objek tertentu memerlukan Sensei untuk dibuka, seperti ```Shittim Chest``` dan Reruntuhan selama Arc Milenium.
 
 
 # Kelemahan
 
-Kerentanan terhadap Peluru : Sebagai orang normal, tidak seperti warga Kivotos yang memiliki ketahanan yang kuat, Sensei sangat rentan terhadap peluru, karena berpotensi mati dalam satu tembakan. Contoh yang tepat adalah pada Arc Eden Treaty, dimana Sensei pernah tertembak oleh Saori dan menderita luka serius.
+**Kerentanan terhadap Peluru** : Sebagai orang normal, tidak seperti warga Kivotos yang memiliki ketahanan yang kuat, Sensei sangat rentan terhadap peluru, karena berpotensi mati dalam satu tembakan. Contoh yang tepat adalah pada Arc Eden Treaty, dimana Sensei pernah tertembak oleh Saori dan menderita luka serius.
 
-Acrophobia (takut ketinggian) : Selama Arc Kelinci Caerbannog , Sensei adalah bagian dari ```Operation: Clover```, sebuah operasi dimana anggota ```RABBIT Platoon``` akan menyusup ke ```Valkyrie``` untuk mengambil bukti aktivitas ilegal Valkyrie dengan ```Kaiser Corporation```. Selama penyusupan, anggota RABBIT Platoon bergulat turun dari gedung, tapi Sensei tidak mengikuti mereka. Salah satu pilihan dialog pada situasi ini menyebutkan bahwa Sensei takut ketinggian.
+**Acrophobia (takut ketinggian)** : Selama Arc Kelinci Caerbannog , Sensei adalah bagian dari _Operation: Clover_, sebuah operasi dimana anggota ```RABBIT Platoon``` akan menyusup ke ```Valkyrie``` untuk mengambil bukti aktivitas ilegal Valkyrie dengan ```Kaiser Corporation```. Selama penyusupan, anggota RABBIT Platoon bergulat turun dari gedung, tapi Sensei tidak mengikuti mereka. Salah satu pilihan dialog pada situasi ini menyebutkan bahwa Sensei takut ketinggian.
