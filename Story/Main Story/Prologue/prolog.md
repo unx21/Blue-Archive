@@ -313,7 +313,7 @@ Sayangnya Arona tidak tahu siapa dia atau mengapa dia menghilang. Arona berharap
 dia sedikit lebih membantu, dan kemudian setidaknya mengatakan kepada Sensei bahwa dia bisa membantu
 masalah tentang Sanctum Tower.
 
-Setelah Arona memulihkan ijin akses ke Sanctum Tower dan memiliki kendali atasnya, kemudian
+Setelah Arona memulihkan izin akses ke Sanctum Tower dan memiliki kendali atasnya, kemudian
 bertanya kepada Sensei apakah ingin mengirim kendali Sanctum Tower ke General Student Council dengan persetujuan Sensei.
 dan memastikan apakah Sensei benar-benar yakin ingin memberikan kendali penuh kepada General Student Council.
 
@@ -337,7 +337,7 @@ Ketika Sensei bertanya apa yang harus dia lakukan, Rin menjawab bahwa Schale mun
 memiliki otoritas, tetapi tidak memiliki tujuan tertentu. meskipun Sensei tidak memiliki
 sesuatu yang spesifik untuk dikerjakan... Sensei bebas untuk memasuki akademi manapun di Kivotos.
 Sensei juga dapat mendaftarkan murid manapun yang Sensei temukan sebagai anggota klub, dan lain sebagainya.
-Menarik bukan? meskipun disebut sebagai klub Investigasi, Ketua Osis tidak pernah secara spesifik
+Meskipun disebut sebagai klub investigasi, Ketua Osis tidak pernah secara spesifik
 mengatakan apa yang akan diinsvestigasi atau apa tujuannya. 
 
 Kemudian Rin mengatakan bahwa saat ini General Student Council sedang kebanjiran keluhan dimulai dari
@@ -347,7 +347,7 @@ tersebut mengingat waktu luang yang dimiliki oleh Sensei. Lalu Rin meletakkan
 dokumen diatas meja kerja Sensei dan meminta Sensei untuk memeriksanya
 jika Sensei memiliki waktu nanti. Dan sebelum Rin pergi, dia memberi selamat kepada
 Sensei atas posisi barunya dan mengandalkan Sensei sekaligus mengatakan
-untuk menghubunginya jika Sensei membutuhkan sesuatu sebelum Rin pamit pergi.
+untuk menghubunginya jika Sensei membutuhkan sesuatu sebelum akhirnya Rin pamit pergi.
 
 
 
