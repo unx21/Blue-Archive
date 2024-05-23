@@ -141,7 +141,9 @@ _*Ini benar-benar terlalu dalam makna nya buat saya, ketika sesama manusia hanya
 
 
 > [!NOTE]
-> #### Ada beberapa bagian yang gak ku tl karena membingungkan seperti Midori yang mengatakan bahwa karakter utama game tidak dapat menyelamatkan gadis-gadis dengan sayuran karena dia lebih menyukai sosis, bener-bener ga manuk akal sih, susah, bingung, jadi ga dimasukin juga ga ngaruh banyak kan hehe.
+> Ada beberapa bagian yang gak ku tl karena membingungkan seperti Midori yang mengatakan bahwa karakter utama game tidak dapat menyelamatkan gadis-gadis dengan sayuran karena dia lebih menyukai sosis, bener-bener ga manuk akal sih, susah, bingung, jadi ga dimasukin juga ga ngaruh banyak kan hehe.
+
+
 
 > [!TIP]
-> ### Jika ada kesalahan terjemahan, koreksi saya dengan berkomentar melalui issue atau [Wassapme](https://wa.me/62887436568613).
+> Jika ada kesalahan terjemahan, koreksi saya dengan berkomentar melalui issue atau [Wassapme](https://wa.me/62887436568613).
