@@ -36,18 +36,18 @@ dari game tersebut. Aris bingung tetapi kemudian mengangguk setuju. Midori kemud
 Aris tersenyum lembut dan memulai game pertamanya, Midori sedikit menjelaskan bahwa game mereka adalah
 RPG fantasi klasik yang kaya akan suasana dongeng.
 
-#### Kalender Kosmik Tahun 2354. Manusia dilalap api pembalasan.
+`Kalender Kosmik Tahun 2354. Manusia dilalap api pembalasan.`
 
 Aris bingung dengan maksud narasi tersebut, Midori menjelaskan bahwa itu terinspirasi dari genre lain yang sedang
 tren, Aris menekan tombol dan tutorial dimulai.
 
-#### Tekan tombol B untuk menggunakan senjata di depanmu.
+`Tekan tombol B untuk menggunakan senjata di depanmu.`
 
 Saat Aris menekan tombol B
 
 *Boom*
 
-#### GAME OVER
+`GAME OVER`
 
 Ketika Aris sedang kebingungan, Momoi datang dan tertawa sambil mengatakan bahwa Aris seharusnya menekan tombol A.
 Midori bertanya mengapa Momoi kembali, Momoi mengatakan bahwa dia sudah terlambat karena tidak ada seorang pun di sana,
@@ -55,22 +55,26 @@ dan akan kembali esok hari. Aris bersemangat dan melanjutkan karena dia mengalam
 melalui kata-kata, Momoi menyela bahwa dia tahu apa yang Aris rasakan, itu pasti 'tertarik' atau 'antisipasi'. Midori menebak
 bahwa itu adalah 'marah'.
 
-#### Senjata berhasil digunakan.
+`Senjata berhasil digunakan.`
 
 Setelah Aris berhasil menggunakan senjata, Momoi membual bahwa sekali Aris telah melewati tutorialnya, dia akan merasakan
 bagian terbaik dari segala RPG.
 
-#### GELUTTT DIMULAI!.
-#### Seekor Puny Jelly mendekat!.
+`GELUTTT DIMULAI!.`
+
+`Seekor Puny Jelly mendekat!.`
 
 Aris bersemangat sementara Momoi berteriak kepada Aris untuk menumbuk tombol A, Aris menekan tombol A sambil berkata
 serangan beruntun Secret Sword Tsubame Gaeshi, Aris yakin bahwa jurus mematikannya itu pasti mendapatkan Puny Jelly.
 Aris sekali lagi melancarkan jurusnya "Secret Sword! Tsubame...!"
 
-#### *Pow*
-#### Counterattack. One-hit KO.
-#### GAME OVER
-#### Puny Jelly: "Kamu seharusnya tahu lebih baik daripada membawa pedang ke pertempuran senjata[^2]. hmph!."
+`*Pow*`
+
+`Counterattack. One-hit KO.`
+
+`GAME OVER`
+
+`Puny Jelly: "Kamu seharusnya tahu lebih baik daripada membawa pedang ke pertempuran senjata[^2]. hmph!."`
 
 [^2]: __Ini bingung mau tl kek gimana, keknya maksud narasi game: lebih baik membawa pedang ke pertempuran senjata atau mungkin daripada membawa pedang ke pertempuran pistol? soalnya ini asli membingungkan karena teks aslinya "You should know better than to bring a sword to a gun fight."__
 
