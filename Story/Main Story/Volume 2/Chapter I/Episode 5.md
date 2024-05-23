@@ -22,9 +22,9 @@ pada Game Development Department. Beep boop" ucap Momoi.
 
 
 
-Midori hanya menghela nafas dan berusaha semampunya, Kemudian Momoi pergi. Midori yang sekarang
+Midori hanya menghela nafas dan berusaha semampunya, kemudian Momoi pergi. Midori yang sekarang
 ditinggal berdua bersama Aris merasa canggung sementara Aris hanya mengangkat alis karena bingung,
-Midori mulai dengan menyapa Aris terlebih dahulu dan melanjutkan bahwa dia tidak tau bagaimana cara
+Midori mulai dengan menyapa Aris terlebih dahulu dan melanjutkan bahwa dia tidak tahu bagaimana cara
 memulai percakapan, Midori melanjutkan bahwa dia akan mencari program edukasi untuk anak-anak
 secara daring. Aris sambil melihat di sekitarnya, menjawab Midori dengan meminta verifikasi identitas objek.
 Midori bingung, kemudian Aris menyerahkan sebuah benda, Midori menjawab dengan sedikit malu bahwa itu
@@ -106,7 +106,9 @@ Momoi karena Aris tersentuh dengan game mereka. Midori membalas bahwa game merek
 dan berterima kasih bahwa air matanya telah menghapus seluruh ulasan buruk yang mereka terima. Momoi berharap bahwa Yuzu
 juga ada di sini untuk melihat pemandangan ini.
 
-__*Yup, Aku berkaca-kaca cugg karena perubahan suasana nya.__
+_*Yup, Aku berkaca-kaca cugg karena perubahan suasana nya._
+
+
 
 Kemudian terdengar sebuah suara yang mengatakan bahwa dia di sini, Momoi terkejut mengapa sebuah kabin/loker bisa terbuka.
 Midori panik dan berteriak hantu, sementara Momoi menenangkan Midori yang hampir melempar FlyStation lagi. Aris melihat Yuzu
@@ -118,7 +120,7 @@ berhasil mengatakan Terima kasih karena telah mengucapkan game tersebut menyenan
 Terimakasih karena telah menangis, itu benar-benar berarti untuknya. Yuzu selalu berharap mendengar ucapan itu tentang game
 mereka*.
 
-__*Ini benar-benar terlalu dalam makna nya buat saya, ketika sesama manusia hanya memberikan cacian kepada hasil kerja keras kita sementara makhluk hidup yang bukan manusia ternyata lebih mampu menghargai hal-hal kecil yang kita buat. Ini benar-benar keren banget asli sumpah.__
+_*Ini benar-benar terlalu dalam makna nya buat saya, ketika sesama manusia hanya memberikan cacian kepada hasil kerja keras kita sementara makhluk hidup yang ~bukan manusia~ ternyata lebih mampu menghargai hal-hal kecil yang kita buat. Ini benar-benar keren banget asli sumpah._
 
 
 
