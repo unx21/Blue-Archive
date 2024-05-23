@@ -76,7 +76,7 @@ akan memerintah negeri ini". Kotori ikut bersemangat, lalu Aris memegang dan ber
 menggunakan derek untuk-, sebelum menyelesaikan kalimatnya, Hibiki terkejut, begitu pula Utaha dan Kotori. Aris merayakan dirinya yang berhasil mengangkat senjatanya, Aris bertanya
 bagaimana pengaturan tombolnya, dan dan bertanya apakah pelatuknya adalah R trigger, ketika Hibiki mencoba menghentikannya, Aris mengucapkan nama jurusnya yaitu *Blinding Light!*.
 
-[^3]: __Down / sedih / merasa tidak tenang.
+[^3]: __Down / sedih / merasa tidak tenang.__
 
 
 
