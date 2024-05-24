@@ -65,6 +65,8 @@ suasana tersebut dengan menyambut kedatangan Yuzu kedalam party. Mereka kemudian
 
 # Selanjutnya - Kembali ke Reruntuhan
 
+![WhatsApp Image 2024-05-24 at 22 44 16](https://github.com/unx21/Blue-Archive/assets/84166927/1fb7af5f-975e-4f8f-8e04-f26b549f4128)
+
 -----
 
 
