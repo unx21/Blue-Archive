@@ -32,25 +32,25 @@ Scene berpindah lagi dan dimulai dengan narasi
 #### "Aku telah menunggumu pahlawan.
 #### Aku adalah dewi yang dikenal sebagai Momoria.
 #### Dunia kami, Millenneapolis, sekarang berada di ambang krisis yang belum pernah terjadi sebelumnya.
-#### Kau adalah satu-satunya yang dapat mengatasi krisis ini dan menyelamatkan Game Development Department... maksudku, Millenneapolis.
+#### Anda adalah satu-satunya yang dapat mengatasi krisis ini dan menyelamatkan Game Development Department... maksudku, Millenneapolis.
 #### Ini mungkin kebenaran yang sulit untuk diterima, tapi aku mohon padamu.
 #### Petualangan kedepannya akan sulit.
 #### Anda mungkin menghadapi cobaan dan kesulitan yang tak terkira.
 #### ...Tapi, tolong, jangan kehilangan keberanian.
 #### Gadismu akan selalu berada di sisimu.
 
-#### Kau lebih dari pahlawan bagi para wanita muda di dunia yang baru ini.
+#### Anda lebih dari pahlawan bagi para wanita muda di dunia yang baru ini.
 #### Mereka akan memanggilmu dengan sebuah gelar yang lebih istimewa.
 #### Gelar hebat itu adalah..."
 
-__*Sensei! <sup>buka mode code</sup>*__
+__*Sensei!*[^4]__
 
-<!-- Saya tidak tahu apakah ini masih termasuk kedalam narasi game diatas atau memang di ucapkan oleh Momoi ; Midori ?? Entahlah -->
+[^4]: Saya tidak tahu apakah ini masih termasuk kedalam narasi game diatas atau memang di ucapkan oleh Momoi ?? Midori ?? Entahlah -->
 
 Narasi berakhir dan scene berubah dimana Sensei terbangun di sebuah ruangan yang tidak diketahui,
 kemudian terdengar suara kagum ketika Sensei membuka matanya. Muncul seseorang yang berkata
 bahwa Sensei beruntung, lalu muncul orang lainnya yang menyela untuk tidak mengatakan hal yang
-aneh karena mempermalukan Sensei. Kemudian dia menyanggah bahwa dia hanya senang dan
+aneh karena mempermalukan Sensei. Kemudian dia menyangkal bahwa dia hanya senang dan
 sedikit takut jika Sensei tidak akan bangun. Sementara yang satunya bersyukur, karena dia mengira
 telah melengkapi pembunuhan setelah FlyStation yang dilemparkan oleh kembarannya keluar jendela
 itu menghantam kepala Sensei, kemudian meminta maaf atas nama kembarannya.
@@ -80,15 +80,15 @@ di Kivotos benar-benar hebat. Millenium juga tempat dimana teknologi paling muta
 hal apa yang membuat murid-murid tersebut meminta bantuan Sensei.
 
 Kembali ke ruangan Game Development Department, mereka menyambut kembali Sensei dan merasa senang, lalu
-mulai memperkenalkan diri yaitu Momoi: departemen[^4] penulis skenario, lalu dilanjutkan oleh Midori: ilustrator[^5]
-dan yang bertanggung jawab atas semua visual[^6] game. Lalu Momoi memperkenalkan ketua mereka yaitu Yuzu, tetapi
+mulai memperkenalkan diri yaitu Momoi: departemen[^5] penulis skenario, lalu dilanjutkan oleh Midori: ilustrator[^6]
+dan yang bertanggung jawab atas semua visual[^7] game. Lalu Momoi memperkenalkan ketua mereka yaitu Yuzu, tetapi
 dia sedang tidak hadir, dan melanjutkan bahwa mereka bersama-sama membuat klub Game Development Department.
 Kemudian Momoi dengan semangat mengatakan bahwa akhirnya mereka dapat menjelajahi reruntuhan dengan kehadiran
 Sensei. lalu Sensei bertanya reruntuhan apa yang mereka maksud.
 
-[^4]: __Departemen / divisi / cabang.__
-[^5]: __Ilustrator / perupa / pelukis / orang yang menggambar.__
-[^6]: __Visual dapat dijelaskan dengan rangsangan yang mengenai indera penglihatan. Namun demikian, melihat belum tentu sampai menimbulkan pengertian.__
+[^5]: __Departemen / divisi / cabang.__
+[^6]: __Ilustrator / perupa / pelukis / orang yang menggambar.__
+[^7]: __Visual dapat dijelaskan dengan rangsangan yang mengenai indera penglihatan. Namun demikian, melihat belum tentu sampai menimbulkan pengertian.__
 
 
 
