@@ -45,7 +45,9 @@ Scene berpindah lagi dan dimulai dengan narasi
 
 __*Sensei!*[^4]__
 
-[^4]: Saya tidak tahu apakah ini masih termasuk kedalam narasi game diatas atau memang di ucapkan oleh Momoi ?? Midori ?? Entahlah -->
+[^4]: __Saya tidak tahu apakah ini masih termasuk kedalam narasi game diatas atau memang di ucapkan oleh Momoi ?? Midori ?? Entahlah__
+
+
 
 Narasi berakhir dan scene berubah dimana Sensei terbangun di sebuah ruangan yang tidak diketahui,
 kemudian terdengar suara kagum ketika Sensei membuka matanya. Muncul seseorang yang berkata
@@ -76,7 +78,7 @@ Arona menjelaskan bahwa sekolah tersebut merupakan salah satu dari tiga akademi 
 dan Gehenna. Millennium School menghargai rasionalitas dan teknologi lebih dari sekolah manapun di Kivotos.
 Itu adalah tempat dimana murid yang berspesialisasi dalam sains dan teknisi bisa berkumpul atas nama penelitian,
 sementara mereka tidak memiliki sejarah yang panjang seperti dua akademi tradisional itu, tetapi pengaruh mereka
-di Kivotos benar-benar hebat. Millenium juga tempat dimana teknologi paling mutakhir berawal, Arona bertanya-tanya
+di Kivotos benar-benar hebat. Millennium juga tempat dimana teknologi paling mutakhir berawal, Arona bertanya-tanya
 hal apa yang membuat murid-murid tersebut meminta bantuan Sensei.
 
 Kembali ke ruangan Game Development Department, mereka menyambut kembali Sensei dan merasa senang, lalu
