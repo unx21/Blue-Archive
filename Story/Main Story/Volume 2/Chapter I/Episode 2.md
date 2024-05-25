@@ -80,9 +80,9 @@ untuk itu. Momoi sekali lagi menegaskan jika Yuuka ingin bukti maka dia akan men
 Ketika Yuuka bertanya tentang kebenarannya, Momoi menjawab bahwa sesungguhnya pengembangan telah siap, Midori
 bertanya apa yang dimaksud oleh Momoi, sementara Momoi kaget mengapa Midori terkejut, Momoi melanjutkan bahwa
 mereka memiliki senjata rahasia di lengan baju mereka[^7]. Dan berkata bahwa mereka akan ikut serta kedalam Millennium Prize...
-dan memasukkan Tales Saga Chronicle 2 yang dikenal sebagai TSC2. Sensei bertanya apa itu Millenium Prize, Momoi menjawab
+dan memasukkan Tales Saga Chronicle 2 yang dikenal sebagai TSC2. Sensei bertanya apa itu Millennium Prize, Momoi menjawab
 bahwa itu adalah sebuah kontes dimana ratusan klub Millennium menyerahkan jerih payah mereka, dan tak akan ada yang bisa
-menutup klub mereka jika memenangkan kontes tersebut bahkan Yuuka seorang. Yuuka setuju karena itu hanya terjadi jika
+menutup klub mereka jika memenangkan kontes tersebut bahkan seorang Yuuka. Yuuka setuju karena itu hanya terjadi jika
 mereka menang, Yuuka yakin betapa tidak masuk akalnya apa yang Momoi coba tawarkan, Yuuka tertarik apa yang akan terjadi
 bahkan jika mereka ditakdirkan gagal pada akhirnya, Yuuka berkata bahwa ini adalah kesempatan terakhir mereka dan hanya tersisa
 2 minggu sebelum Millennium Prize.
@@ -105,11 +105,10 @@ menyerah dengan mencari anggota lain tetapi bukan berarti tidak ada jalan lain.
 
 
 Midori bertanya kembali apa yang dimaksud Momoi tentang senjata rahasia yang dia katakan kepada Yuuka, Momoi dengan senang hati
-mengatakan bahwa itu adalah Sensei. Ketika Sensei bertanya apakah itu dia, Momoi bertanya apakah Sensei mengingat reruntuhan
+mengatakan bahwa itu adalah Sensei. Ketika Sensei bertanya apakah itu adalah dia, Momoi bertanya apakah Sensei mengingat reruntuhan
 yang disebutkan Momoi sebelumnya, lalu melanjutkan bahwa ada sebuah tempat misterius di dekat Millennium dimana General
-Student Council tidak mengijinkan siapapun untuk masuk. Seharusnya, alasan mengapa aksesnya dilarang karena itu berbahaya tapi
-tidak pernah mengatakan apa bahayanya, dan cukup mencurigakan bagi Momoi bagaimanapun mustahil untuk tahu jika seseorang
-pernah menghilang atau tidak pernah kembali, benar-benar dunia yang tak diketahui.
+Student Council tidak mengizinkan siapapun untuk masuk. Seharusnya, alasan mengapa aksesnya dilarang karena itu berbahaya tapi
+tidak pernah mengatakan apa bahayanya, dan cukup mencurigakan bagi Momoi.
 
 Sensei bertanya mengapa Momoi ingin pergi ke tempat seperti itu, Momoi menjawab karena mereka ingin membuat game yang hebat.
 Kemudian Momoi meluruskan bahwa satu-satunya yang mereka miliki untuk nama mereka adalah penghargaan Worst Game of the Year,
