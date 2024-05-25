@@ -7,8 +7,8 @@
 Scene dimulai dengan sebuah narasi
 
 #### "...
-#### Bisakah kau mendengar suaraku?.
-#### Apa kau disana? Ksatria yang akan...
+#### Bisakah anda mendengar suaraku?.
+#### Apa anda disana? Ksatria yang akan...
 #### ...menyelamatkan dunia.
 #### Aku telah menunggumu.
 #### Pada awalnya, Celestials dan Demons...[^1]
