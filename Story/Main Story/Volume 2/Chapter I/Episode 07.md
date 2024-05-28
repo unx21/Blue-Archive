@@ -47,7 +47,7 @@ mereka akan membayar menggunakan itu. Sementara Midori meminta pendapat Aris, di
 Aris menatap intens kepada sebuah senjata, dan ketika Aris bertanya senjata apa itu, seorang meister lain datang memujinya karena memiliki mata yang
 bagus, Aris bertanya siapa orang itu, dan kemudian dia memperkenalkan dirinya yaitu Kotori, salah satu meister dari Engineering Department dan seorang
 ahli penjelasan 💀. Saat Kotori mulai mengoceh tentang Aris, seorang anggota ke-empat Game Development Department, Midori datang menyela dan bertanya
-tentang benda besar yang terlihat seperti meriam itu. Kotori pertama-tama memuji deduksiMidori yang hebat, dan mulai menjelaskan bahwa benda itu dibuat
+tentang benda besar yang terlihat seperti meriam itu. Kotori pertama-tama memuji deduksi Midori yang hebat, dan mulai menjelaskan bahwa benda itu dibuat
 dengan menggunakan 70% anggaran klub untuk paruh kedua tahun itu. Kotori lalu mulai membual tentang proyek paling ambisius mereka yaitu railgun yang
 cocok untuk kapal perang antargalaksi, Momoi terkejut sekaligus bingung dan hanya bisa mengatakan bahwa itu hal yang gila, Kotori melanjutkan bahwa
 Engineering Department akan mengembangkan kapal perang antargalaksi setelah beberapa helikopter dan robot kerja serba guna. Railgun ini hanyalah
@@ -63,10 +63,10 @@ laser beam, maka Momoi pastinya adalah bodoh 🤓. Momoi balas mengejek bahwa di
 itu adalah Supernova: The Sword of Light. Midori mengejek nama yang diberikan oleh Hibiki bahwa itu terlalu berlebihan. Aris dengan ekspresi senang menyebut nama
 senjata itu, Midori juga terkejut melihat betapa gembira nya Aris. Aris dengan senang mengatakan bahwa dia menginginkan senjata itu, dan dengan dramatis mengucapkan
 "Wahai pembuat baja yang hebat, wariskan kepadaku kekuatan nafas naga yang hebat ini". Utaha menjawab bahwa dia senang mendengar ucapan Aris yang penuh semangat,
-Kotori melanjutkan bahwa mereka tidak bisa memenuhi permintaan tersebut, Sementara Momoi tidak terima, Hibiki memotong bahwa ada alasan terkait hal itu. Aris dengan
+Kotori melanjutkan bahwa mereka tidak bisa memenuhi permintaan tersebut, sementara Momoi tidak terima, Hibiki memotong bahwa ada alasan terkait hal itu. Aris dengan
 ekspresi sedih bertanya apakah karena levelnya terlalu rendah atau statistik apa yang dia perlukan untuk dapat memakai senjata ini, Utaha menyela bahwa bukan itu maksudnya,
 dia berharap bahwa Aris sedikit realistis, Momoi menebak bahwa ini tentang uang. Momoi menenangkan Aris bahwa jika perlu, dia akan bersedia berpisah dengan FlyStation Midori.
-Utaha menyangkal bukan itu alasannya, Momoi bertanya bagaimana mereka harus realistis jika masalahnya bukan uang, Utaha lal menjelaskan bahwa masalah utamanya
+Utaha menyangkal bukan itu alasannya, Momoi bertanya bagaimana mereka harus realistis jika masalahnya bukan uang, Utaha lalu menjelaskan bahwa masalah utamanya
 adalah senjata ini terlalu berat untuk digunakan sebagai senjata pribadi, Kotori menambahkan bahwa berat railgunnya sendiri sekitar 140 kg, jika menambahkan perangkat
 pengoptimalan akurasi dan baterai maka totalnya sekitar 200 kg. Aris sedikit sedih dan Utaha menghiburnya dan merasa senang bahwa Aris sangat tertarik dengan ciptaannya,
 dan berharap bahwa Aris dapat menggunakannya sendiri, Utaha juga membayangkan dapat menjadi bagian dari itu. Aris gembira dan bertanya dengan dramatis apakah tidak ada
