@@ -26,7 +26,7 @@ Aris meyakinkan Midori untuk tidak perlu mengkhawatirkan Sensei karena dia akan 
 pendapat Sensei, Sensei setuju karena mereka adalah teman satu party. Aris senang dan dengan senyum lebar menyambut Sensei kedalam party,
 Midori tidak punya pilihan lain setelah mendengar jawaban Sensei dan semuanya memasuki posisi siap tempur.
 
-[^1]: Massively Multiplayer Online adalah sebuah game online dengan jumlah pemain yang besar, biasanya dari ratusan sampai ribuan, di server yang sama.
+[^1]: __Massively Multiplayer Online adalah sebuah game online dengan jumlah pemain yang besar, biasanya dari ratusan sampai ribuan, di server yang sama.__
 
 
 
@@ -37,7 +37,7 @@ Midori tidak punya pilihan lain setelah mendengar jawaban Sensei dan semuanya me
 
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%209.md"><img src="https://img.shields.io/badge/Episode%209-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2009.md"><img src="https://img.shields.io/badge/Episode%2009-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
    <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2011.md"><img src="https://img.shields.io/badge/Episode%2011-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
