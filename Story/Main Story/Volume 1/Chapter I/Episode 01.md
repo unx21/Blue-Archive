@@ -40,8 +40,8 @@ Arona memutuskan untuk menyemangati Sensei. Sebelum akhirnya scene berpindah ke 
 
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Prologue/prolog.md"><img src="https://img.shields.io/badge/Prologue-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%201/Chapter%20I/Episode%202.md"><img src="https://img.shields.io/badge/Episode%202-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Prologue"><img src="https://img.shields.io/badge/Prologue-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%201/Chapter%20I/Episode%2002.md"><img src="https://img.shields.io/badge/Episode%2002-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
    </p>
 <p align="right">
       <a href="https://github.com/unx21/Blue-Archive/tree/zx/Story/Main%20Story"><img src="https://img.shields.io/badge/Kembali%20ke%20main%20story-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
