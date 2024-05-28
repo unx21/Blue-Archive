@@ -8,18 +8,18 @@ tanggapan pertama Midori setelah mendengar celotehan Momoi, meskipun mereka cuku
 pernah bisa mengalahkan C&C. Ini semua karena memiliki Sensei yang mendukung mereka dari garis belakang, Yuzu
 mengerti apa yang dimaksud Midori, dia merasa jika bersama dengan Sensei benar-benar terdapat perbedaan. Midori
 bertanya tentang persediaan peluru mereka, Aris dengan wajah khawatir menjawab bahwa baterainya berkedip[^1] dan
-bertanya apakah MP nya rendah, Yuzu menjawab bahwa peluru miliknya tersisa sedikit, dia masih bisa bertempur jika
-itu hanya satu baku-tembak jangka pendek. Midori mengatakan bahwa mereka perlu menghindari perseteruan lainnya,
-Aris bertanya tempat apa ini dan kemudian sadar, Momoi bertanya kepada Aris, Aris menjawab bahwa dia sedikit tidak
-yakin tetapi merasa familiar dan mulai menunjuk arah jalan. 
+bertanya apakah MP nya rendah, Yuzu menjawab bahwa dia hanya memiliki sedikit peluru yang tersisa, dia masih bisa
+bertempur jika itu hanya satu baku-tembak jangka pendek. Midori mengatakan bahwa mereka perlu menghindari perseteruan
+lainnya, Aris bertanya tempat apa ini dan kemudian sadar, Momoi bertanya kepada Aris, Aris menjawab bahwa dia sedikit
+tidak yakin tetapi merasa akrab dan mulai menunjuk arah jalan. 
 
 [^1]:  Yang dimaksud Aris dengan baterai nya berkedip tuh indikator yang menunjukkan kalo baterainya low? mungkin? mengingat perkataan Utaha di eps 7 bahwa senjata itu memiliki baterai, juga dan Aris menambahkan hal tersebut dengan tema fantasy bahwa MP nya sekarang rendah.
 
 
 
 Aris tidak memiliki ingatan apapun tentang tempat ini di ingatannya, tetapi tubuhnya tahu tentang itu. Itu seperti memainkan
-kembali game yang telah lama kamu mainkan bertahun-tahun yang lalu, Tanpa tutorial atau penjelasan apapun, dia memiliki
-insting kemana harus pergi. Momoi menjawab bahwa dia mengerti apa yang Aris coba sampaikan, tempat ini terasa mirip
+kembali game yang telah lama dimainkan bertahun-tahun yang lalu, tanpa tutorial atau penjelasan apapun, dia memiliki
+firasat kemana harus pergi. Momoi menjawab bahwa dia mengerti apa yang Aris coba sampaikan, tempat ini terasa mirip
 seperti tempat mereka pertama kali menemukan Aris, Midori menunjuk ke arah sebuah komputer dan bertanya apakah seperti
 komputer itu, Momoi menjawab bahwa komputer itu telah menyala, kemudian terdengar suara *beep*.
 
