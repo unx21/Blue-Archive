@@ -7,7 +7,7 @@ senjatanya masing-masing, oleh karena itu Aris juga membutuhkan satu. Momoi mela
 ada satu tempat dimana dia akan mendapatkan senjata dalam waktu singkat yaitu The Engineering Department.
 Aris bingung dengan kata "Engineering" yang masih baru untuknya, Midori menjelaskan bahwa itu adalah
 sebuah klub yang membuat dan memperbaiki mesin yang berada di Millennium. Midori dengan muka nyengir
-melanjutkan bahwa anggota klub itu disebut dengan ***Meisters[^1]***. Momoi menambahkan bahwa Engineering
+melanjutkan bahwa anggota klub itu disebut dengan *Meisters[^1]*. Momoi menambahkan bahwa Engineering
 Department melakukan berbagai hal dengan mesin pada umumnya, dan juga merombak[^2] senjata sekolah.
 Momoi merasa yakin dan bertaruh bahwa Engineering memiliki senjata cadangan yang tergeletak dimana-mana,
 
@@ -113,8 +113,8 @@ Tentu saja, salah satu lingkungan seperti itu langsung terlintas dalam pikiran, 
 
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%206.md"><img src="https://img.shields.io/badge/Episode%206-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%208.md"><img src="https://img.shields.io/badge/Episode%208-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2006.md"><img src="https://img.shields.io/badge/Episode%2006-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2008.md"><img src="https://img.shields.io/badge/Episode%2008-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="right"
