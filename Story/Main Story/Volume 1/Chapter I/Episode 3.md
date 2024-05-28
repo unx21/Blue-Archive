@@ -42,18 +42,18 @@ juga akan melakukan bagiannya. Serika penasaran dan meminta Hoshino untuk menjel
 Hoshino mulai menjelaskan jika melihat sejarahnya, Helmet Gang akan menyerang beberapa hari lagi, jadi dia menyarankan
 untuk pergi menyerang sekali, karena mereka mungkin kesal dan lengah setelah pertempuran tadi. Ayane kembali bertanya
 apakah mereka akan menyerang sekarang dan Hoshino mengangguk, dengan Sensei bersama mereka, ada lebih dari cukup
-persediaan untuk menyelesaikan pekerjaan sekali dan semuanya. Shiroko juga setuju dan masih memiliki waktu jika berangkat
-sekarang karena markas Helmet Gang berada sekitar 30 km dari sekolah mereka, setelah mereka setuju, lalu meminta pendapat
-Sensei. Setelah Sensei berkata bahwa dia juga setuju, mereka semua bersiap-siap dengan semangat.
+persediaan untuk menyelesaikan pekerjaan sekali dan semuanya. Shiroko juga setuju dan berpendapat mereka masih memiliki
+waktu jika berangkat sekarang karena markas Helmet Gang berada sekitar 30 km dari sekolah mereka, setelah mereka berunding
+dan setuju, mereka lalu meminta pendapat Sensei. Setelah Sensei berkata bahwa dia juga setuju, mereka semua bersiap-siap dengan semangat.
 
-Scene berpindah ke tanah tempat dimana Kata-Kata Helmet Gang dan Ayane mendeteksi sekitar 15 km dari posisi mereka
-terdapat signal Kata-Kata Geng yang mungkin telah tau bahwa murid-murid dari Abydos ingin menyerang mereka.
+Scene berpindah ke tanah tempat dimana Kata-Kata Helmet Gang berada dan Ayane mendeteksi sekitar 15 km dari posisi mereka
+terdapat sinyal dari Kata-Kata Gang yang mungkin telah tahu bahwa murid-murid dari Abydos ingin menyerang mereka.
 
 
 
 Scene pindah ke bagian setelah gelutan dimana Helmet Gang memilih mundur, dan persediaan, persembunyian dan amunisi
 milih Helmet Gang telah mereka rebut. Dengan ini Shiroko bertaruh bahwa Helmet Gang tidak akan menyerang dalam waktu
-dekat, Hoshino datang memberi ucapan **Kerja Bagus 👍😁👍** kepada sensei kembali ke sekolah mereka.
+dekat, Hoshino datang memberi ucapan **Kerja Bagus 👍😁👍** kepada ssemua orang lalu kembali ke sekolah bersama-sama.
 
 
 
