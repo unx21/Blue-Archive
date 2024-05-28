@@ -25,7 +25,7 @@ komputer itu, Momoi menjawab bahwa komputer itu telah menyala, kemudian terdenga
 
 #### Selamat datang di Divi:Sion System. Tolong masukkan nama item yang anda butuhkan.
 
-Momoi merasa bahwa ini terlalu mudah daripada yang dia bayangkan dan bertanya haruskahdia mengetik G.BIBLE, Midori
+Momoi merasa bahwa ini terlalu mudah daripada yang dia bayangkan dan bertanya haruskah dia mengetik G.BIBLE, Midori
 tidak yakin karena ini terasa terlalu mencurigakan, apa yang dimaksud dengan Divi:Sion System, apakah itu merujuk kepada
 pabrik amunisi ini. Aris kemudian mengetik kata G.BIBLE di komputer tersebut, lalu muncul pop up "#$@#$$%#%^*&(#@"
 dan Momoi mengira komputer tersebut rusak dan bertanya kepada Aris apa yang dia lakukan tadi. Aris dengan wajah melankolis
