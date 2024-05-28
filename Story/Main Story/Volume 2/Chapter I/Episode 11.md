@@ -61,7 +61,7 @@ Momoi dan Midori berkata ya dan komputer itu memulai progresnya
 Momoi meminta komputer tersebut untuk tidak membuang bagian itu karena itu adalah harta karun bagi pengembang game---
 bagi seluruh dunia, komputer tersebut menjawab lagi
 
-#### Saran: Jika anda ingin mendapatkan G.BIBLE, sambungkan ke perangkat penyimpanan untuk menerima pemindahan data.
+#### Saran: Jika anda ingin mendapatkan G.BIBLE, sambungkan ke penyimpanan perangkat untuk menerima pemindahan data.
 
 Momoi bertanya kembali apakah komputer itu tahu tentang keberadaan G.BIBLE, lalu komputer itu menjawab
 
@@ -69,7 +69,7 @@ Momoi bertanya kembali apakah komputer itu tahu tentang keberadaan G.BIBLE, lalu
 
 Momoi bingung dengan maksud komputer tersebut dan komputer itu menambahkan
 
-#### Untuk lebih tepatnya, Aku berisi G.BIBLE. Bagaimanapun juga, bentuk perubahanku saat ini tidak akan bertahan lama. Tolong pindahkan aku ke perangkat penyimpanan yang baru.
+#### Untuk lebih tepatnya, Aku berisi G.BIBLE. Bagaimanapun juga, wujudku saat ini tidak akan bertahan lama. Tolong pindahkan aku ke penyimpanan perangkat yang baru.
 
 Momoi bingung tentang apa yang sekiranya yang bisa berfungsi dan bertanya apakah mereka bisa menggunakan kartu memory Game Girl SP.
 
@@ -89,7 +89,7 @@ konsol itu kehabisan daya, Momoi masih tidak terima tetapi Midori memotong karen
 berkata pemindahan telah selesai dan Momoi bertanya dan sekarang apa lagi, lalu komputer yang sekarang telah berada di dalam konsol game
 mengatakan data baru telah dikonfirmasi, G.BIBLE.exe.
 
-Yuzu terkejut dan Momoi berkata jika mereka memilikinya, maka mereka harus memastikan bahwa itu adalah hasil yang asli, setelah Momoi
+Yuzu terkejut dan Momoi berkata jika mereka memilikinya, maka mereka harus memastikan bahwa itu adalah yang asli, setelah Momoi
 membuka file exe tersebut, layar menunjukkan untuk membuka file tersebut membutuhkan kata sandi. Momoi kesal tetapi dipotong lagi oleh
 Midori jika kata sandinya tidak terlalu rumit maka Veritas mampu menerobosnya. Yuzu mengangguk dan Momoi berkata jika mereka berhasil
 menerobosnya maka, Midori melanjutkan mereka dapat membuat Tales Saga Chronicle 2. Momoi kegirangan dan mulai membual tentang game
