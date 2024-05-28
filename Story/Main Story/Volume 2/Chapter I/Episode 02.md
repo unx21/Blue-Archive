@@ -125,8 +125,8 @@ bertanya apa itu, lalu pertama-tama Momoi menjelaskan hal itu terlebih dahulu da
 
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%201.md"><img src="https://img.shields.io/badge/Episode%201-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%203.md"><img src="https://img.shields.io/badge/Episode%203-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2001.md"><img src="https://img.shields.io/badge/Episode%2001-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2003.md"><img src="https://img.shields.io/badge/Episode%2003-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 <p align="right">
    <a href="https://github.com/unx21/Blue-Archive/tree/zx/Story/Main%20Story"><img src="https://img.shields.io/badge/Kembali%20ke%20main%20story-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
