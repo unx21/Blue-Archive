@@ -105,8 +105,8 @@ dan mampu mencapai resolusi 8K. Midori hanya bisa menghela nafas, dan berharap s
 
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%203.md"><img src="https://img.shields.io/badge/Episode%203-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%205.md"><img src="https://img.shields.io/badge/Episode%205-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2003.md"><img src="https://img.shields.io/badge/Episode%2003-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2005.md"><img src="https://img.shields.io/badge/Episode%2005-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="right"
