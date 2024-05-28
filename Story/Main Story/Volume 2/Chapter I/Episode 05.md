@@ -130,8 +130,8 @@ _*Ini benar-benar terlalu dalam makna nya buat saya, ketika sesama manusia hanya
 
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%204.md"><img src="https://img.shields.io/badge/Episode%204-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%206.md"><img src="https://img.shields.io/badge/Episode%206-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2004.md"><img src="https://img.shields.io/badge/Episode%2004-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2006.md"><img src="https://img.shields.io/badge/Episode%2006-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="right"
