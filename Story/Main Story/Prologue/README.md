@@ -74,7 +74,7 @@ Kemudian Rin menjawab bahwa Ketua Osis sedang tidak di sini saat ini. dan berter
 
 Sementara Yuuka dan Chinatsu terkejut, Hasumi tidak menyangka bahwa ternyata rumor itu benar.
 
-Lalu Rin melanjutkan lagi bahwa General Student Council tidak memiliki otoritas karena administrator[^5] teratas Sanctum Tower telah menghilang.
+Lalu Rin melanjutkan lagi bahwa General Student Council tidak memiliki otoritas karena __administrator[^5]__ teratas Sanctum Tower telah menghilang.
 General Student Council telah mencari ke seluruh jalan serta jalan pintas yang membutuhkan izin, semuanya tidak berguna hingga.... baru-baru ini.
 
 [^5]: __Administrator / Pengurus : yup yang ngurus Sanctum Tower itu Ketua Osis.__
@@ -358,7 +358,7 @@ berharap bahwa Sensei bisa berkunjung ke Trinity General School suatu saat nanti
 Chinatsu berkata bahwa dia akan melaporkan kejadian ini kepada Kepala Prefect Team,
 dan menyambut Sensei jika pekerjaannya membawa Sensei ke Gehenna Academy.
 Yuuka juga berpamitan sambil mengatakan bahwa mereka akan bertemu kembali jika
-mereka semua datang ke Millenium Science School. Lalu Sensei kembali masuk kedalam ruangannya.
+mereka semua datang ke Millennium Science School. Lalu Sensei kembali masuk kedalam ruangannya.
 
 Scene pindah ke Wakamo yang sedang tertawa gajelas sebelum scene pindah lagi
 ke dalam Shittim Chest dengan Arona yang sedang menyemangati Sensei yang akan
