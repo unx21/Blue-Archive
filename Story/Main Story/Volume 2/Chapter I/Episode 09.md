@@ -72,7 +72,7 @@ suasana tersebut dengan menyambut kedatangan Yuzu kedalam party. Mereka kemudian
 
 
 <p align="right">
-   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%208.md"><img src="https://img.shields.io/badge/Episode%208-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
+   <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2008.md"><img src="https://img.shields.io/badge/Episode%2008-DA70D6?style=for-the-badge&logo=github&logoColor=white"/>
    <a href="https://github.com/unx21/Blue-Archive/blob/zx/Story/Main%20Story/Volume%202/Chapter%20I/Episode%2010.md"><img src="https://img.shields.io/badge/Episode%2010-FFF200?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
