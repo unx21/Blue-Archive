@@ -50,4 +50,4 @@ Arona memutuskan untuk menyemangati Sensei. Sebelum akhirnya scene berpindah ke 
 
      
 > [!NOTE]
-> ### Jika ada kesalahan terjemahan, koreksi saya dengan berkomentar melalui issue atau [Wassapme](https://wa.me/62887436568613).
+> ### Jika ada bagian atau terjemahan yang sulit untuk dimengerti atau membutuhkan penjelasan lebih lanjut, silahkan berkomentar melalui issue atau chat saya di [wassap](https://wa.me/62887436568613).
