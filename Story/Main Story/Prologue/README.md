@@ -68,7 +68,7 @@ Ratusan akademi panik dan generator angin sekolah kami juga mati beberapa hari y
 Chinatsu melanjutkan bahwa ada rumor yang mengatakan murid dibawah penjagaan Federal Correction Bureau telah melarikan diri.
 Suzumi menambahkan dimana terdapat angka kenaikan preman-preman yang menyerang murid-murid yang dalam perjalanan menuju sekolah.
 Hasumi juga mengatakan bahwa peredaran tank ilegal, pertukaran berbagai senjata yang tidak diketahui telah meningkat hingga 2000%.
-terakhir Yuuka bertanya apa yang dilakukan oleh Ketua Osis pada keadaan yang menyedihkan ini? Dan menuntut untuk melihatnya secepat ini juga.
+terakhir Yuuka bertanya apa yang dilakukan oleh Ketua Osis pada keadaan yang menyedihkan ini? Dan menuntut untuk melihatnya se-segera mungkin.
 
 Kemudian Rin menjawab bahwa Ketua Osis sedang tidak di sini saat ini. dan berterus terang bahwa dia menghilang.
 
@@ -87,7 +87,7 @@ Sensei juga bertanya apakah dirinya yang dimaksud.
 
 Yuuka kemudian menyela dan bertanya Siapa 'Sensei' yang sedang mereka bicarakan? dan apa yang dilakukannya di sini?.
 
-Hasumi menjawab Siapapun Sensei, kelihatannya tidak berasal dari Kivotos.
+Hasumi menjawab siapapun Sensei, kelihatannya tidak berasal dari Kivotos.
 
 Lalu Rin memperkenalkan Sensei dan sedikit menjelaskan bahwa Sensei akan mulai mengajar di Kivotos,
 dan juga dipilih langsung secara pribadi oleh Ketua Osis.
@@ -107,7 +107,7 @@ memperkenalkan dirinya sekali lagi dihadapan Sensei dan menyuruh Sensei untuk me
 Rin menjelaskan lagi bahwa Sensei di sini untuk menjadi penasihat untuk klub yang dibentuk oleh Ketua Osis,
 yaitu Federal Investigation Club: Schale. Klub ini tidak seperti klub biasanya, tetapi lebih seperti organisasi __ekstrayudisial[^6].__
 Karena itu adalah klub federal, Sensei bisa mendaftarkan murid-murid dari akademi manapun di Kivotos.
-Juga setiap distrik akademi bisa menjalankan aktifitas pertempuran tanpa larangan.
+Juga setiap distrik akademi bisa menjalankan aktivitas pertempuran tanpa larangan.
 Rin juga bertanya-tanya bagaimana bisa Ketua Osis membuat sebuah organisasi dengan kekuatan seperti ini.
 Dan terakhir, bangunan klub Schale yang berada di sekitar 30 km dari tempat mereka, tempat itu saat ini kosong, tapi mereka perlu memasukkan
 sesuatu di ruang bawah tanah sesuai permintaan Ketua Osis. Itu adalah tugas Rin untuk membawa Sensei ke sana.
@@ -279,17 +279,17 @@ _*Arona sialannnn, lebih enak susu stroberi daripada susu pisang blokk._
 Sensei berinisiatif untuk membangunkannya dengan cara menyentuh pipinya, tetapi dia malah
 kembali mengigau sambil mengatakan bahwa masih banyak yang harus dia makan.
 akhirnya dia bangun sambil bertanya apa yang terjadi. kemudian akhirnya dia sadar bahwa
-Sensei telah mengaktifkan Shittim Chest, tetapi masih pake nanya lagi sudah jam berapa sekarang.
+Sensei telah mengaktifkan Shittim Chest, dan bertanya sudah jam berapa sekarang.
 
 Kemudian dia mulai memperkenalkan dirinya sendiri yaitu Arona, pengelola sistem yang tinggal
 di dalam Shittim Chest, yang berfungsi sebagai OS utama, dan meminta Sensei untuk 
-menganggap Arona sebagai Sekretaris terpercaya Sensei. Arona sangat bangga akhirnya
+menganggap Arona sebagai sekretaris terpercaya Sensei. Arona sangat bangga akhirnya
 bisa bertemu dengan Sensei dan berkata bahwa dia telah menunggu lama,
 meski kenyataanya dia tertidur selama itu.
 
 
 
-Setelah sedikit bercerita, Arona menawarkan unuk menyelesaikan otentikasi biologis milik Sensei.
+Setelah sedikit bercerita, Arona menawarkan unuk menyelesaikan autentikasi biologis milik Sensei.
 kemudian Arona sambil malu-malu meminta Sensei untuk mendekat dengan mengatakan
 bahwa itu adalah bagian dari protokol, lalu mereka saling menempelkan ujung jari.
 Kemudian Sensei berkata bahwa hal ini mirip dengan adegan dari film sci-fi yang terkenal,
@@ -382,4 +382,4 @@ Selesai.
   </p>
  
 > [!NOTE]
-> ### Jika ada kesalahan terjemahan, koreksi saya dengan berkomentar melalui issue atau [Wassapme](https://wa.me/62887436568613)
+> ### Jika ada bagian atau terjemahan yang sulit untuk dimengerti atau membutuhkan penjelasan lebih lanjut, silahkan berkomentar melalui issue atau chat saya di [wassap](https://wa.me/62887436568613).
