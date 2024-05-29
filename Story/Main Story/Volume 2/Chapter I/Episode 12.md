@@ -144,4 +144,4 @@ tentang rencana itu karena hanya ada satu orang yang bisa memberitahu mereka ten
 </p>
 
 > [!NOTE]
-> ### Jika ada bagian atau terjemahan yang sulit untuk dimengerti atau membutuhkan penjelasan lebih lanjut, silahkan berkomentar melalui issue atau chat saya [di wassap](https://wa.me/62887436568613).
+> ### Jika ada bagian atau terjemahan yang sulit untuk dimengerti atau membutuhkan penjelasan lebih lanjut, silahkan berkomentar melalui issue atau chat saya di [wassap](https://wa.me/62887436568613).
