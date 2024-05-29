@@ -61,7 +61,7 @@ yang imut dan memastikan kembali apakah Yuuka yakin mereka bermaksud menyerang D
 mereka melakukan hal-hal konyol kadangkala. Yuuka menegaskan bahwa kali ini tidak akan sesederhana seperti biasa karena Veritas juga terlibat, orang itu
 bertanya untuk memastikan apakah Veritas itu adalah kelompok hacker yang itu, Yuuka mengangguk dan melanjutkan bahwa kedua kelompok itu bersedia
 melakukan segalanya ketika hal-hal yang mereka pegang erat berada pada jalannya. Orang tersebut akhirnya mengerti lagipula sudah menjadi pekerjaan mereka
-untuk merespon permintaan. bagaimanapun juga terdapat satu masalah kecil yaitu.
+untuk merespon permintaan. Bagaimanapun juga terdapat satu masalah kecil yaitu.
 
 Scene berpindah lagi ke ruangan klub Veritas, Momoi bertanya apa kendalanya, Maki menjawab bahwa Itu adalah orang-orang yang menjaga penyimpanan barang
 selundupan milik Dewan Siswa dimana cerminnya berada, Maki dengan senyum gembira menambahkan mereka adalah The Maid Club. Midori bertanya tentang itu
