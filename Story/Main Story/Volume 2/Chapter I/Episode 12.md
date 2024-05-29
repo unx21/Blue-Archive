@@ -85,9 +85,10 @@ Momoi bahaya apanya coba, mereka bukan Prefect Team dari Gehenna atau Justice Ta
 menambahkan bahwa tujuan mereka bukanlah menyingkirkan Maid Club tetapi mendapatkan cermin yang mereka butuhkan dari tempat penyimpanan yang dijaga.
 Momoi mengatakan bahwa itu tidak beda jauh dan anggota Veritas lain memberikan pendapat mereka bahwa saat ini Maid Club sedang tidak dalam kekuatan penuhnya,
 sedangkan Maid Club secara luas dianggap sebagai squad terkuat di Millennium itu bukan karena kemampuan mereka sebagai agen yang membuat mereka mendapatkan
-reputasi tersebut, tetap karena "beliau". Pemimpin Maid Club, tanda panggilan Double 0, Neru. Dan kemudian dia....
+reputasi tersebut, tetap karena "beliau". Pemimpin Maid Club, call sign[^5] Double 0, Neru. Dan kemudian dia....
 
 [^4]: __Extremist adalah sebutan untuk orang-orang yang tidak bisa berkompromi atau orang-orang yang tidak ingin kalah.__
+[^5]: __Call sign / tanda panggilan.__
 
 
 
@@ -105,12 +106,12 @@ untuk Aris, untuk Yuzu dan semua dari mereka. Momoi tergerak dengan kata-kata Mi
 pahlawan legendaris harus bangkit untuk menyelamatkannya dengan mengalahkan raja iblis yang keji. Aris dengan wajah senang menjelaskan setelah memainkan Approximately 45,
 dia yakin bahwa biasanya ada senjata kuat yang mendampingi para pahlawan, Momoi bertanya apa yang Aris maksud, Aris dengan wajah gembira mengatakan bahwa pahlawan
 bertarung bersama dengan temannya. Momoi juga tergerak dengan kata-kata Aris dan akhirnya membulatkan tekad, dan mulai bertanya tentang rencana kepada Hare, Hare mengangguk
-tetapi sedikit pesimis jika ingin melakukan rencana tersebut dalam aksi mereka. Mereka punya beberapa persiapan yang harus dilakukan seperti wiretaps, EMP[^5], dan bantuan dari
+tetapi sedikit pesimis jika ingin melakukan rencana tersebut dalam aksi mereka. Mereka punya beberapa persiapan yang harus dilakukan seperti wiretaps, EMP[^6], dan bantuan dari
 teman-teman. Aris memasang ekspresi *Sparkle sparkle* dan Hare melanjutkan bahwa mereka memiliki sedikit masalah dalam hal menjelaskan dan kemudian berkata bahwa Sensei yang
 harus melakukan pembicaraan tersebut. Sensei bertanya apakah Hare yakin ingin Sensei yang melakukan bagian itu, Hare mengangguk dan berterus terang bahwa rencana mereka ini mati
 sampai setidaknya mereka dapat mengarahkan bantuan "mereka".
 
-[^5]: __Electromagnetic Pulse atau EMP ialah ledakan pendek radiasi elektromagnetik. Fenomena yang terjadi secara alami maupun buatan ini umumnya mengganggu, bahkan merusak peralatan elektronik.__
+[^6]: __Electromagnetic Pulse atau EMP ialah ledakan pendek radiasi elektromagnetik. Fenomena yang terjadi secara alami maupun buatan ini umumnya mengganggu, bahkan merusak peralatan elektronik.__
 
 Scene berganti dan Utaha mengangguk mengerti bahwa mereka kesulitan melakukan rencana ini tanpa bantuan Engineering Department, Utaha setuju dan mengatakan mereka boleh mengandalkan
 Engineering Department, Midori tidak percaya karena Engineering Department seharusnya memiliki pembaharuan. Utaha membenarkan Midori, tetapi Midori masih tidak mengerti mengapa Utaha
