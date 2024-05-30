@@ -1,5 +1,7 @@
 # Cara Belajar Suatu Bahasa
 
+-----
+
 
 
 Episode dibuka dengan Yuzu yang menyapa Aris, dan memperkenalkan dirinya sebagai Ketua klub Game Development
