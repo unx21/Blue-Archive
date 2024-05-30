@@ -1,5 +1,7 @@
 # Penyaringan Kelayakan
 
+-----
+
 
 
 Scene dimulai di ruangan klub Game Development Department, Momoi senang karena hal-hal ribet yang menghalangi jalan
