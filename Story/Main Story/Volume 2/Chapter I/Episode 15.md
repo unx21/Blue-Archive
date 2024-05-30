@@ -34,7 +34,7 @@ telah gagal, Midori menyangkalnya.
 15 menit sebelumnya, di ruang klub Veritas. Momoi mengeluh setiap saat mereka tiba pada titik itu dalam pelarian, rencananya selalu gagal. Mendapatkan perhatian semua
 orang itu mudah. Midori meneruskan penjelasan Momoi tentang menjebak Akane dan Asuna, mengisolasi Karin, dan memancing robot keamanan Dewan SIswa. Setelah semua
 itu adalah bagian mudahnya yaitu masuk ke ruang penyimpanan. Tapi jika ada bagian yang gagal dari rencana itu maka game over, tidak ada seorangpun di Millennium yang
-bisa berhadapan langsung dengan musuh yang disiapkan yatu Maid Club, bahkan jika mereka menggunakan nama Himari untuk menyebarkan kebingungan, itu hanya akan
+bisa berhadapan langsung dengan musuh yang disiapkan Dewan Siswa yaitu Maid Club, bahkan jika mereka menggunakan nama Himari untuk menyebarkan kebingungan, itu hanya akan
 membawa mereka sejauh ini. Hal itu akan memberi mereka waktu, tapi mereka mungkin masih akan terpojok. Oleh karena itu di menit 2, mereka akan menjebak Akane dan
 Asuna lalu di menit 5, Karin akan diisolasi, dan menit ke 11 mereka mengalahkan para robot dan mengamankan cermin di menit 13. Yuzu menambahkan pada menit 20 mereka
 semua akan ditahan, Midori bertanya bagaimana jika bukan semua dari mereka, Momoi bertanya apa maksudnya. Midori mengatakan untuk menang, beberapa dari mereka
