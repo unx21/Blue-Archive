@@ -85,7 +85,7 @@ Momoi bahaya apanya coba, mereka bukan Prefect Team dari Gehenna atau Justice Ta
 menambahkan bahwa tujuan mereka bukanlah menyingkirkan Maid Club tetapi mendapatkan cermin yang mereka butuhkan dari tempat penyimpanan yang dijaga.
 Momoi mengatakan bahwa itu tidak beda jauh dan anggota Veritas lain memberikan pendapat mereka bahwa saat ini Maid Club sedang tidak dalam kekuatan penuhnya,
 sedangkan Maid Club secara luas dianggap sebagai squad terkuat di Millennium itu bukan karena kemampuan mereka sebagai agen yang membuat mereka mendapatkan
-reputasi tersebut, tetap karena "beliau". Pemimpin Maid Club, call sign[^5] Double 0, Neru. Dan kemudian dia....
+reputasi tersebut, tetap karena "beliau". Pemimpin Maid Club, call sign[^5] Double O, Neru. Dan kemudian dia....
 
 [^4]: __Extremist adalah sebutan untuk orang-orang yang tidak bisa berkompromi atau orang-orang yang tidak ingin kalah.__
 [^5]: __Call sign / tanda panggilan.__
