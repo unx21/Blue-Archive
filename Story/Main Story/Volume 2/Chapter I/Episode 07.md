@@ -1,5 +1,7 @@
 # Terlalu Besar untuk Disebut Senjata
 
+-----
+
 
 
 Episode dibuka dengan Momoi yang menjelaskan bahwa setiap murid di Millennium eh Kivotos memiliki
