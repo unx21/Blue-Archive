@@ -6,7 +6,7 @@
 
 Episode dibuka dengan Momoi yang gembira karena mereka hanya tinggal berjalan menuju ke lantai teratas dan masuk ke penyimpanan barang selundupan dan mencari si cermin,
 tiba-tiba Hare menyuruh Momoi untuk memukul geladak, Momoi heran dan *Kaboooommm*. Momoi terkejut bukan main melihat lubang besar di tembok samping yang disebabkan
-oleh benda yang lewat di atas kepalanya. Midori mengamati benda itu yang ternyata adalah peluru sniper anti-material berukuran 13.97 milimeter, itu akan mengenai tepat di kepala
+oleh benda yang lewat di atas kepalanya. Midori mengamati sebuah benda yang ternyata adalah cangkang dari peluru sniper anti-material berukuran 13.97 milimeter, itu akan mengenai tepat di kepala
 jika mereka sedikit lebih tinggi, Momoi panik dan reflek bersyukur bahwa dia begitu pendek-- tetapi sadar dan bertanya tentang situasi saat ini. Midori menjelaskan bahwa penembak
 jitu C&C, Karin, telah berada di posisinya. Peluru melesat sekali lagi tetapi Momoi menyadarinya dan menyuruh Midori menunduk, *bang* lalu terdengar suara Momoi yang berteriak Aaaahh.
 
