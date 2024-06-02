@@ -36,7 +36,7 @@ Daftar murid yang akan muncul di dalam Volume 2 Chapter I ini:
 
 
 <p align="center">
-Aku disini.
+Berteman Kuy.
 </p>
 <p align="center">
    <a href="https://facebook.com/unxzx"><img src="https://img.shields.io/badge/mack%20juckberg-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
