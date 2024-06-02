@@ -28,6 +28,9 @@ Developer | Game | Publisher |
 ----
 
 <p align="center">
+Aku disini.
+</p>
+<p align="center">
    <a href="https://facebook.com/unxzx"><img src="https://img.shields.io/badge/mack%20juckberg-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
    <a href="https://instagram.com/unxzx_"><img src="https://img.shields.io/badge/unxzx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    <a href="https://wa.me/62887436568613"><img src="https://img.shields.io/badge/unx-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
