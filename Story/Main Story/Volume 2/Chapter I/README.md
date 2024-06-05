@@ -10,13 +10,14 @@ Ingin segera membaca? Tekan tombolnya
 -----
 
 
+Gambar chibinya ngebug jadi krempeng, jadi sebaiknya gunakan mode desktop hehhe😁
 
 Daftar murid yang akan muncul di dalam Volume 2 Chapter I ini:
 
 |  Klub | Nama | Portrait | Chibi |
 | :-: | :-: | :-: | :-: |
-| Game Development Department | Saiba Momoi | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/873e24f5-443e-4cba-983e-a6c57b54d648"> | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/ba6c241d-e599-42b9-95c3-450ec0ae1044" height=46> |
-| Game Development Department | Saiba Midori | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/1a35b38d-47fe-48d4-a6e9-02d994775ea2"> | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/cb4ae870-8e13-401d-8bc9-103bc951460d" height=46> |
+| Game Development Department | Saiba Momoi | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/873e24f5-443e-4cba-983e-a6c57b54d648"> | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/ba6c241d-e599-42b9-95c3-450ec0ae1044" height=250> |
+| Game Development Department | Saiba Midori | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/1a35b38d-47fe-48d4-a6e9-02d994775ea2"> | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/cb4ae870-8e13-401d-8bc9-103bc951460d" height=250> |
 | Game Development Department | Tendou Aris | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/3b6644f0-bb32-4431-a1b7-84806b832767"> | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/eef790be-42a6-4761-8f9d-424adbd682a7" height=250> |
 | Game Development Department | Hanaoka Yuzu | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/81c6c8c9-2461-45df-ba10-d6c0a7f1ee90"> | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/cefdee43-3bfd-4e15-8d73-fc18dd8932df" height=250> |
 | Seminar | Hayase Yuuka | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/ee33940f-1b0b-4be2-93f2-79b268df374b"> | <img src="https://github.com/unx21/Blue-Archive/assets/84166927/e484eadf-6f2f-4f88-a46c-d75d0ca04701" height=250> |
