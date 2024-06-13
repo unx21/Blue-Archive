@@ -60,7 +60,7 @@ Kotori melanjutkan bahwa sebenarnya seluruh rencana tersebut sedang terhenti sek
 merasa down[^3]. Kotori mengatakan bahwa permasalahan mereka adalah anggaran, Mereka menggunakan 70% anggaran hanya untuk membuat senjata ini, jika
 mereka ingin membuat kapal perang antargalaksi maka mereka membutuhkan ratusan kali lebih banyak. Momoi bertanya lagi lalu mengapa mereka membuat senjata
 ini diatas segalanya. Utaha datang dan menjawab betapa mengecewakannya pertanyaan Momoi, Utaha kemudian mengatakan dengan wajah serius, karena mereka
-suka laser beam 😁😁. Hibiki mengangguk, dan Kotori datang meneruskan bahwa dia setuju dengan sepenh hati dan mengatakan jika Momoi tidak bisa mengapresiasi
+suka laser beam 😁😁. Hibiki mengangguk, dan Kotori datang meneruskan bahwa dia setuju dengan sepenuh hati dan mengatakan jika Momoi tidak bisa mengapresiasi
 laser beam, maka Momoi pastinya adalah bodoh 🤓. Momoi balas mengejek bahwa dia dikelilingi oleh para idiot 🤓. Hibiki kemudian mengatakan nama resmi dari senjata
 itu adalah Supernova: The Sword of Light. Midori mengejek nama yang diberikan oleh Hibiki bahwa itu terlalu berlebihan. Aris dengan ekspresi senang menyebut nama
 senjata itu, Midori juga terkejut melihat betapa gembira nya Aris. Aris dengan senang mengatakan bahwa dia menginginkan senjata itu, dan dengan dramatis mengucapkan
