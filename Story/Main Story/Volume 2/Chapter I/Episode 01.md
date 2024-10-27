@@ -50,18 +50,28 @@ __*Sensei!*[^4]__
 
 
 Narasi berakhir dan scene berubah dimana Sensei terbangun di sebuah ruangan yang tidak diketahui,
-kemudian terdengar suara kagum ketika Sensei membuka matanya. Muncul seseorang yang berkata
+kemudian terdengar suara kagum ketika Sensei membuka matanya.
+
+Muncul seseorang yang berkata
 bahwa Sensei beruntung, lalu muncul orang lainnya yang menyela untuk tidak mengatakan hal yang
-aneh karena mempermalukan Sensei. Kemudian dia menyangkal bahwa dia hanya senang dan
+aneh karena mempermalukan Sensei. 
+
+Kemudian dia menyangkal bahwa dia hanya senang dan
 sedikit takut jika Sensei tidak akan bangun. Sementara yang satunya bersyukur, karena dia mengira
 telah melengkapi pembunuhan setelah FlyStation yang dilemparkan oleh kembarannya keluar jendela
 itu menghantam kepala Sensei, kemudian meminta maaf atas nama kembarannya.
 
 Kembarannya berkata balik kepada Midori untuk tidak bertindak begitu sombong dan perkasa ketika
 dia mengatakan bahwa ketika dia merasa telah mengenai Sensei, hal pertama yang dikhawatirkan
-oleh Midori adalah FlyStationnya. Midori beralasan karena itu adalah aset paling berharga yang dimiliki
-oleh Game Development Department, dan berseru tanpa berfikir. Kemudian Midori mengalihkan
-topik dan bertanya apakah Sensei mewakili Schale. Sementara sang kembaran merasa senang ketika
+oleh Midori adalah FlyStationnya. 
+
+Midori beralasan karena itu adalah aset paling berharga yang dimiliki
+oleh Game Development Department, dan berseru tanpa berfikir.
+
+Kemudian Midori mengalihkan
+topik dan bertanya apakah Sensei mewakili Schale.
+
+Sementara sang kembaran merasa senang ketika
 Sensei mengangguk, dia melanjutkan bahwa Sensei pasti telah membaca surat yang dia kirimkan dan
 tidak menyangka akan benar-benar datang.
 
@@ -73,20 +83,30 @@ Sensei adalah satu-satunya harapan mereka sambil memasukkan kata-kata seperti "O
 selamatkan kami!."
 
 Arona tertawa karena ini adalah permintaan yang paling lucu yang pernah dia lihat, kemudian bertanya apakah
-Sensei akrab dengan Millennium Science School. Sensei percaya diri tetapi di satu sisi tidak terlalu yakin, kemudian
+Sensei akrab dengan Millennium Science School.
+
+Sensei percaya diri tetapi di satu sisi tidak terlalu yakin, kemudian
 Arona menjelaskan bahwa sekolah tersebut merupakan salah satu dari tiga akademi terbesar disamping Trinity
-dan Gehenna. Millennium School menghargai rasionalitas dan teknologi lebih dari sekolah manapun di Kivotos.
+dan Gehenna.
+
+Millennium School menghargai rasionalitas dan teknologi lebih dari sekolah manapun di Kivotos.
+
 Itu adalah tempat dimana murid yang berspesialisasi dalam sains dan teknisi bisa berkumpul atas nama penelitian,
 sementara mereka tidak memiliki sejarah yang panjang seperti dua akademi tradisional itu, tetapi pengaruh mereka
-di Kivotos benar-benar hebat. Millennium juga tempat dimana teknologi paling mutakhir berawal, Arona bertanya-tanya
+di Kivotos benar-benar hebat. 
+
+Millennium juga tempat dimana teknologi paling mutakhir berawal, Arona bertanya-tanya
 hal apa yang membuat murid-murid tersebut meminta bantuan Sensei.
 
-Kembali ke ruangan Game Development Department, mereka menyambut kembali Sensei dan merasa senang, lalu
+Kembali ke ruangan Game Development Department, mereka merasa senang dan menyambut Sensei, lalu
 mulai memperkenalkan diri yaitu Momoi: departemen[^5] penulis skenario, lalu dilanjutkan oleh Midori: ilustrator[^6]
-dan yang bertanggung jawab atas semua visual[^7] game. Lalu Momoi memperkenalkan ketua mereka yaitu Yuzu, tetapi
+dan yang bertanggung jawab atas semua visual[^7] game.
+
+Lalu Momoi memperkenalkan ketua mereka yaitu Yuzu, tetapi
 dia sedang tidak hadir, dan melanjutkan bahwa mereka bersama-sama membuat klub Game Development Department.
+
 Kemudian Momoi dengan semangat mengatakan bahwa akhirnya mereka dapat menjelajahi reruntuhan dengan kehadiran
-Sensei. lalu Sensei bertanya reruntuhan apa yang mereka maksud.
+Sensei. Lalu Sensei bertanya reruntuhan apa yang mereka maksud.
 
 [^5]: __Departemen / divisi / cabang.__
 [^6]: __Ilustrator / perupa / pelukis / orang yang menggambar.__
@@ -96,9 +116,13 @@ Sensei. lalu Sensei bertanya reruntuhan apa yang mereka maksud.
 
 Momoi menjelaskan situasinya terlebih dahulu kepada Sensei dimulai dari Game Development Department telah membuat
 sebuah game 16-bit dengan damai, kemudian suatu hari dewan siswa meluncurkan serangan mereka dimana dua hari yang
-lalu Yuuka, salah seorang dari Student Council's Four Divine Beast, menghampiri dan memberikan mereka ultimatum. Sensei
+lalu Yuuka, salah seorang dari Student Council's Four Divine Beast, menghampiri dan memberikan mereka ultimatum.
+
+Sensei
 sedikit bingung dan bertanya apa itu ultimatum, kemudian muncul sebuah suara yang mengatakan bahwa dia akan menjelaskan
-itu sendiri. Scene diakhiri oleh Momoi dan Midori yang terkejut dan memasang wajah (0 o 0).
+itu sendiri.
+
+Scene diakhiri oleh Momoi dan Midori yang terkejut dan memasang wajah (0 o 0).
 
 
 
