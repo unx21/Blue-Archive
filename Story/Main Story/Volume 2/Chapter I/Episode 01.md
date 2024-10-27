@@ -76,7 +76,9 @@ Sensei mengangguk, dia melanjutkan bahwa Sensei pasti telah membaca surat yang d
 tidak menyangka akan benar-benar datang.
 
 Sensei bertanya surat apa yang dimaksudnya, scene pindah ke kilas balik saat Arona memberitahu Sensei
-bahwa mereka memiliki permintaan dari Millennium dimana pengirimnya adalah Millennium Game
+bahwa mereka memiliki permintaan dari Millennium.
+
+Pengirimnya adalah Millennium Game
 Development Department dan mulai membacakan surat tersebut yang berisi bahwa Game Development
 Department sedang bertarung untuk bertahan, dewan siswa telah memojokkan mereka dan berkata bahwa
 Sensei adalah satu-satunya harapan mereka sambil memasukkan kata-kata seperti "Oh Pahlawan, Tolong
